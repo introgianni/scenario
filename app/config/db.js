@@ -2,7 +2,7 @@ var mongoose = require('mongoose');
 
 //var dburl = 'mongodb://localhost/scenariodb';
 //var dburl = 'mongodb://dido_app:black-RUSSIAN@cint01.private.cineca.it:9001,cint02.private.cineca.it:9001/DIDO_DEV?replicaSet=cintrs'; 
-var dburl = 'mongodb://admin:secret@172.30.197.158:27017/scenariodb';
+var dburl = process.env.MONGO_URL || 'mongodb://admin:secret@172.30.197.158:27017/scenariodb';
 console.log('before creating connection');
 mongoose.connect(dburl);
 
