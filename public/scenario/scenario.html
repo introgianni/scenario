@@ -1,0 +1,91 @@
+<div id="scenarioContainer" ng-controller="ScenarioController">
+    <div class="col-md-12" ng-show="showFormRicerca">
+        <div class="row">
+            <form name="scenarioForm" ng-submit="submitData(searchForm)" novalidate class="form-inline searchForm">
+                <label translate="view.scenario.search.struttura"></label>
+                <select ng-model="searchForm.dipartimento" class="form-control" name="dipartimento" data-ng-options="a.dipDes +' (' + a.dipCod + ')' for a in dipartimenti" />
+                </select>
+                <label translate="view.scenario.search.anno"></label>
+                <select ng-model="searchForm.anno" class="form-control">
+              <option ng-class="dropdown-menu" ng-repeat="anno in listaAnni" ng-value="{{anno.cod}}">{{anno.des}}</option>
+            </select>
+                <label translate="view.scenario.search.corso"></label>
+                <select ng-model="searchForm.corso" class="form-control" data-ng-options="a.des +' (' + a.cod + ')' for a in tipiCorso">
+            </select>
+                <button type="submit" class="btn btn-default" ng-disabled="scenarioForm.$invalid" translate="view.scenario.search.cerca"></button>
+            </form>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12" ng-show="showParametriRicerca">
+            <row>
+                <b>{{'view.scenario.search.struttura' | translate}}: {{searchForm.dipartimento.dipDes}},
+                  {{'view.scenario.search.anno' | translate}}: {{searchForm.anno}},
+                  {{'view.scenario.search.corso' | translate}}: {{searchForm.corso.des}}</b>
+                <button ng-click="showFormRicerca=true; showParametriRicerca=false" class="btn btn-default" translate="view.scenario.search.newsearch"></button>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12" ng-show="showParametriRicerca">
+            <label translate="view.scenario.search.dataagg"></label>: <b>{{dataagg}}</b>
+        </div>
+    </div>
+
+    <div id="mainContainer">
+        <div class="row">
+            <div id="left" class="col-md-9"></div>
+            <div id="right" class="col-md-3">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+        <a ng-click="isAboutCollapsed = !isAboutCollapsed" ><label translate="view.scenario.right.about"></label>
+      <i class="pull-right glyphicon"
+      ng-class="{'glyphicon-chevron-down': !isAboutCollapsed, 'glyphicon-chevron-up': isAboutCollapsed}"></i>
+    </a>
+  </h4>
+                    </div>
+                    <div class="content-area sample-show-hide" ng-show="isAboutCollapsed">
+                        <p>Esplora i percorsi di studio</p>
+                        <p>Naviga l'albero dello Scenario</p>
+                    </div>
+
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+        <a ng-click="isDetailCollapsed = !isDetailCollapsed"> <label translate="view.scenario.right.dettagli"></label>
+      <i class="pull-right glyphicon"
+      ng-class="{'glyphicon-chevron-down': !isDetailCollapsed, 'glyphicon-chevron-up': isDetailCollapsed}"></i>
+    </a>
+  </h4>
+                    </div>
+                    <div id="dettagli" class="content-area sample-show-hide" ng-show="isDetailCollapsed">
+                    </div>
+
+
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+      <a ng-click="isLegendaCollapsed = !isLegendaCollapsed"><label translate="view.scenario.right.legenda"></label>
+    <i class="pull-right glyphicon"
+    ng-class="{'glyphicon-chevron-down': !isLegendaCollapsed, 'glyphicon-chevron-up': isLegendaCollapsed}"></i>
+  </a>
+</h4>
+                    </div>
+                    <div id="dettagli" class="content-area sample-show-hide" ng-show="isLegendaCollapsed">
+                    </div>
+
+
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+    <a ng-click="isPropedCollapsed = !isPropedCollapsed"><label translate="view.scenario.right.proped"></label>
+  <i class="pull-right glyphicon"
+  ng-class="{'glyphicon-chevron-down': !isPropedCollapsed, 'glyphicon-chevron-up': isPropedCollapsed}"></i>
+</a>
+</h4>
+                    </div>
+                    <div id="dettagli" class="content-area sample-show-hide" ng-show="isPropedCollapsed">
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>

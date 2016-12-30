@@ -1,0 +1,2638 @@
+{
+   "name" : "SCIENZA E TECNOLOGIA DEL FARMACO",
+   "children" : [
+      {
+         "name" : "CHIMICA E TECNOLOGIA FARMACEUTICHE",
+         "children" : [
+            {
+               "name" : "Insegnamenti ad anno libero",
+               "children" : [
+                  {
+                     "name" : "REGOLA VINCOLO ESAME A SCELTA: Crediti a scelta libera (tra 8 e 18 cfu) -  SCELTA su più anni di corso",
+                     "children" : [
+                        {
+                           "name" : "Crediti a scelta libera (tra 1 e 18 cfu) dall'offerta didattica dell'Ateneo",
+                           "children" : [
+                              {
+                                 "name" : "ASPETTI REGOLATORI DEI PRODOTTI DELLA SALUTE",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "4",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?bn6i",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0043"
+                                 },
+                                 "id" : "c1302a0cGENs357364r100556af564614"
+                              },
+                              {
+                                 "name" : "BASI MOLECOLARI E GENETICHE DELLE MALATTIE",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "6",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?8w52",
+                                    "urls" : null,
+                                    "ric_prop" : "<ul>\n<li>BIOLOGIA MOLECOLARE (terzo anno)</li>\n</ul>\n",
+                                    "af_gen_cod" : "STF0035"
+                                 },
+                                 "id" : "c1302a0cGENs357364r100556af564626"
+                              },
+                              {
+                                 "name" : "BIOCHIMICA E FISIOLOGIA DI SISTEMI CELLULARI COMPLESSI",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "6",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?ij0z",
+                                    "urls" : null,
+                                    "ric_prop" : "<ul>\n<li>BIOLOGIA MOLECOLARE (terzo anno)</li>\n</ul>\n",
+                                    "af_gen_cod" : "STF0034"
+                                 },
+                                 "id" : "c1302a0cGENs357364r100556af564613"
+                              },
+                              {
+                                 "name" : "BIOTECNOLOGIE FARMACOLOGICHE E TOSSICOLOGICHE",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "6",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?l53m",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0038"
+                                 },
+                                 "id" : "c1302a0cGENs357364r100556af564615"
+                              },
+                              {
+                                 "name" : "BOTANICALS, ALIMENTI FUNZIONALI E INTEGRATORI ALIMENTARI",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "4",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?0b6m",
+                                    "urls" : null,
+                                    "ric_prop" : "<ul>\n<li>aver superato tutte le attivita' didattiche </li>\n<ul>\n<li>CHIMICA FARMACEUTICA E TOSSICOLOGICA I (terzo anno)</li>\n<li>ANALISI DEI FARMACI II (terzo anno)</li>\n<li>CHIMICA ORGANICA II (terzo anno)</li>\n</ul>\n</ul>\n",
+                                    "af_gen_cod" : "STF0029"
+                                 },
+                                 "id" : "c1302a0cGENs357364r100556af564619"
+                              },
+                              {
+                                 "name" : "CHIMICA FARMACEUTICA AVANZATA",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "5",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?jtuf",
+                                    "urls" : null,
+                                    "ric_prop" : "<ul>\n<li>aver superato tutte le attivita' didattiche </li>\n<ul>\n<li>ANALISI DEI FARMACI II (terzo anno)</li>\n<li>CHIMICA FARMACEUTICA E TOSSICOLOGICA I (terzo anno)</li>\n<li>CHIMICA ORGANICA II (terzo anno)</li>\n</ul>\n</ul>\n",
+                                    "af_gen_cod" : "STF0027"
+                                 },
+                                 "id" : "c1302a0cGENs357364r100556af564633"
+                              },
+                              {
+                                 "name" : "FARMACOGENETICA E FARMACOGENOMICA",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "5",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?skcc",
+                                    "urls" : null,
+                                    "ric_prop" : "<ul>\n<li>BIOLOGIA MOLECOLARE (terzo anno)</li>\n</ul>\n",
+                                    "af_gen_cod" : "STF0037"
+                                 },
+                                 "id" : "c1302a0cGENs357364r100556af564616"
+                              },
+                              {
+                                 "name" : "FORMULAZIONE E PRODUZIONE INDUSTRIALE DI MEDICINALI BIOTECNOLOGICI",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "5",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?89wh",
+                                    "urls" : null,
+                                    "ric_prop" : "<ul>\n<li>BIOLOGIA MOLECOLARE (terzo anno)</li>\n</ul>\n",
+                                    "af_gen_cod" : "STF0036"
+                                 },
+                                 "id" : "c1302a0cGENs357364r100556af564630"
+                              },
+                              {
+                                 "name" : "Inglese per la tesi",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "3",
+                                    "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Chimica_e_Tecnologia_Farmaceutiche.html",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0009"
+                                 },
+                                 "id" : "c1302a0cGENs357364r100556af564631"
+                              },
+                              {
+                                 "name" : "LABORATORIO DI SINTESI FARMACEUTICA AVANZATA",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "1",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?j99z",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0032"
+                                 },
+                                 "id" : "c1302a0cGENs357364r100556af564618"
+                              },
+                              {
+                                 "name" : "METODOLOGIE DI SVILUPPO DI PROCESSO FARMACEUTICO",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "6",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?ffn4",
+                                    "urls" : null,
+                                    "ric_prop" : "<ul>\n<li>aver superato tutte le attivita' didattiche </li>\n<ul>\n<li>ANALISI DEI FARMACI II (terzo anno)</li>\n<li>CHIMICA ORGANICA II (terzo anno)</li>\n<li>CHIMICA FARMACEUTICA E TOSSICOLOGICA I (terzo anno)</li>\n</ul>\n</ul>\n",
+                                    "af_gen_cod" : "STF0028"
+                                 },
+                                 "id" : "c1302a0cGENs357364r100556af564629"
+                              },
+                              {
+                                 "name" : "PREPARAZIONE ALLE CERTIFICAZIONI DELLA LINGUA INGLESE AI FINI DI ESPERIENZE ERASMUS",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "2",
+                                    "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Chimica_e_Tecnologia_Farmaceutiche.html",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0015"
+                                 },
+                                 "id" : "c1302a0cGENs357364r100556af564624"
+                              },
+                              {
+                                 "name" : "PRINCIPI DI FARMACOMETRIA",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "3",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?8eq0",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0031"
+                                 },
+                                 "id" : "c1302a0cGENs357364r100556af564634"
+                              },
+                              {
+                                 "name" : "PRODOTTI SALUTISTICI: APPROFONDIMENTI",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "2",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?ntu0",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0033"
+                                 },
+                                 "id" : "c1302a0cGENs357364r100556af564617"
+                              },
+                              {
+                                 "name" : "PRODUZIONE DI FARMACI BIOTECNOLOGICI",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "2",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?tx82",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0030"
+                                 },
+                                 "id" : "c1302a0cGENs357364r100556af564632"
+                              },
+                              {
+                                 "name" : "PROGETTAZIONE E SVILUPPO DI FORMULAZIONI TOPICHE E DERMATOLOGICHE",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "5",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?2x13",
+                                    "urls" : null,
+                                    "ric_prop" : "<ul>\n<li>SVILUPPO DEI MEDICINALI: ASPETTI TECNOLOGICI E NORMATIVI (terzo anno)</li>\n</ul>\n",
+                                    "af_gen_cod" : "STF0042"
+                                 },
+                                 "id" : "c1302a0cGENs357364r100556af564628"
+                              },
+                              {
+                                 "name" : "SINTESI DI FARMACI",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "7",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?yjq5",
+                                    "urls" : null,
+                                    "ric_prop" : "<ul>\n<li>aver superato tutte le attivita' didattiche </li>\n<ul>\n<li>CHIMICA ORGANICA II (terzo anno)</li>\n<li>CHIMICA FARMACEUTICA E TOSSICOLOGICA I (terzo anno)</li>\n<li>ANALISI DEI FARMACI II (terzo anno)</li>\n</ul>\n</ul>\n",
+                                    "af_gen_cod" : "STF0026"
+                                 },
+                                 "id" : "c1302a0cGENs357364r100556af564625"
+                              },
+                              {
+                                 "name" : "STRATEGIE INDUSTRIALI PER LA QUALITA' DEI MEDICINALI",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "2",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?g8cs",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0045"
+                                 },
+                                 "id" : "c1302a0cGENs357364r100556af564622"
+                              },
+                              {
+                                 "name" : "SVILUPPO INDUSTRIALE E MARKETING FARMACEUTICO E COSMETICO",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "5",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?t5ks",
+                                    "urls" : null,
+                                    "ric_prop" : "<ul>\n<li>SVILUPPO DEI MEDICINALI: ASPETTI TECNOLOGICI E NORMATIVI (terzo anno)</li>\n</ul>\n",
+                                    "af_gen_cod" : "STF0039"
+                                 },
+                                 "id" : "c1302a0cGENs357364r100556af564623"
+                              },
+                              {
+                                 "name" : "TECNOLOGIA E NORMATIVA DEI PRODOTTI COSMETICI",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "6",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?t7vg",
+                                    "urls" : null,
+                                    "ric_prop" : "<ul>\n<li>SVILUPPO DEI MEDICINALI: ASPETTI TECNOLOGICI E NORMATIVI (terzo anno)</li>\n</ul>\n",
+                                    "af_gen_cod" : "STF0041"
+                                 },
+                                 "id" : "c1302a0cGENs357364r100556af564620"
+                              },
+                              {
+                                 "name" : "TECNOLOGIA FARMACEUTICA AVANZATA",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "6",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?c1h3",
+                                    "urls" : null,
+                                    "ric_prop" : "<ul>\n<li>SVILUPPO DEI MEDICINALI: ASPETTI TECNOLOGICI E NORMATIVI (terzo anno)</li>\n</ul>\n",
+                                    "af_gen_cod" : "STF0040"
+                                 },
+                                 "id" : "c1302a0cGENs357364r100556af564627"
+                              },
+                              {
+                                 "name" : "TECNOLOGIE AVANZATE PER IL DIREZIONAMENTO DI FARMACI",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "2",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?q7m7",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0044"
+                                 },
+                                 "id" : "c1302a0cGENs357364r100556af564621"
+                              }
+                           ],
+                           "data" : {
+                              "collapsed" : "false",
+                              "tipo_sce_cod" : "W",
+                              "tipo" : "regola",
+                              "nota_post" : "",
+                              "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Chimica_e_Tecnologia_Farmaceutiche.html",
+                              "nota_pre" : "E' possibile inserire attività libere in aggiunta o in sostituzione di quelle offerte nell'indirizzo prescelto (max 10 cfu), scegliendo fra altre attività del corso di CTF (è consigliabile però chiedere l'assistenza di un tutor)."
+                           },
+                           "id" : "c1302a0cGENs357364r100556"
+                        },
+                        {
+                           "name" : "Crediti a scelta libera (tra 1 e 18 cfu) dall'offerta didattica dell'Ateneo che soddisfino tutte le seguenti condizioni:",
+                           "children" : [
+                              {
+                                 "name" : "Filtro AND",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "filtro_and",
+                                    "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Chimica_e_Tecnologia_Farmaceutiche.html"
+                                 },
+                                 "id" : "c1302a0cGENs357364r95584fa"
+                              }
+                           ],
+                           "data" : {
+                              "collapsed" : "false",
+                              "tipo" : "regola",
+                              "tipo_sce_cod" : "S",
+                              "nota_post" : null,
+                              "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Chimica_e_Tecnologia_Farmaceutiche.html",
+                              "name" : "Crediti a scelta libera (tra 1 e 18 cfu) dall'offerta didattica dell'Ateneo che soddisfino tutte le seguenti condizioni:",
+                              "nota_pre" : "*** ATTIVITA' LIBERE *** "
+                           },
+                           "id" : "c1302a0cGENs357364r95584"
+                        },
+                        {
+                           "name" : "PERCORSO 1 A SCELTA: Crediti a scelta libera (8 cfu)",
+                           "children" : [
+                              {
+                                 "name" : "LABORATORIO DI SINTESI FARMACEUTICA AVANZATA",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "1",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?j99z",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0032"
+                                 },
+                                 "id" : "c1302a4cGENs357364r95578af537892"
+                              },
+                              {
+                                 "name" : "PRINCIPI DI FARMACOMETRIA",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "3",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?8eq0",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0031"
+                                 },
+                                 "id" : "c1302a4cGENs357364r95578af537890"
+                              },
+                              {
+                                 "name" : "PRODOTTI SALUTISTICI: APPROFONDIMENTI",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "2",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?ntu0",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0033"
+                                 },
+                                 "id" : "c1302a4cGENs357364r95578af537891"
+                              },
+                              {
+                                 "name" : "PRODUZIONE DI FARMACI BIOTECNOLOGICI",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "2",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?tx82",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0030"
+                                 },
+                                 "id" : "c1302a4cGENs357364r95578af537893"
+                              }
+                           ],
+                           "data" : {
+                              "collapsed" : "false",
+                              "tipo_sce_cod" : "F",
+                              "tipo" : "regola",
+                              "nota_post" : "",
+                              "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Chimica_e_Tecnologia_Farmaceutiche.html",
+                              "nota_pre" : "*** ATTIVITA' LIBERE *** Si devono acquisire almeno 8 cfu in attività a scelta. Sono offerti insegnamenti che completano la formazione dell'indirizzo prescelto. Se hai scelto l'indirizzo \"\"FARMACEUTICO-ALIMENTARE\"\" questi sono gli insegnamenti proposti."
+                           },
+                           "id" : "c1302a4cGENs357364r95578"
+                        },
+                        {
+                           "name" : "PERCORSO 2 A SCELTA: Crediti a scelta libera (8 cfu)",
+                           "children" : [
+                              {
+                                 "name" : "BIOTECNOLOGIE FARMACOLOGICHE E TOSSICOLOGICHE",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "6",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?l53m",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0038"
+                                 },
+                                 "id" : "c1302a4cGENs357364r95580af537897"
+                              },
+                              {
+                                 "name" : "PRODUZIONE DI FARMACI BIOTECNOLOGICI",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "2",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?tx82",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0030"
+                                 },
+                                 "id" : "c1302a4cGENs357364r95580af537896"
+                              }
+                           ],
+                           "data" : {
+                              "collapsed" : "false",
+                              "tipo_sce_cod" : "F",
+                              "tipo" : "regola",
+                              "nota_post" : "",
+                              "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Chimica_e_Tecnologia_Farmaceutiche.html",
+                              "nota_pre" : "*** ATTIVITA' LIBERE *** Si devono acquisire almeno 8 cfu in attività a scelta. Sono offerti insegnamenti che completano la formazione dell'indirizzo prescelto. Se hai scelto l'indirizzo \"\"BIOTECNOLOGICO\"\" questi sono gli insegnamenti proposti."
+                           },
+                           "id" : "c1302a4cGENs357364r95580"
+                        },
+                        {
+                           "name" : "PERCORSO 3 A SCELTA: Crediti a scelta libera (8 cfu)",
+                           "children" : [
+                              {
+                                 "name" : "ASPETTI REGOLATORI DEI PRODOTTI DELLA SALUTE",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "4",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?bn6i",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0043"
+                                 },
+                                 "id" : "c1302a4cGENs357364r95582af537901"
+                              },
+                              {
+                                 "name" : "STRATEGIE INDUSTRIALI PER LA QUALITA' DEI MEDICINALI",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "2",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?g8cs",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0045"
+                                 },
+                                 "id" : "c1302a4cGENs357364r95582af537902"
+                              },
+                              {
+                                 "name" : "TECNOLOGIE AVANZATE PER IL DIREZIONAMENTO DI FARMACI",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "2",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?q7m7",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0044"
+                                 },
+                                 "id" : "c1302a4cGENs357364r95582af537903"
+                              }
+                           ],
+                           "data" : {
+                              "collapsed" : "false",
+                              "tipo_sce_cod" : "F",
+                              "tipo" : "regola",
+                              "nota_post" : "",
+                              "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Chimica_e_Tecnologia_Farmaceutiche.html",
+                              "nota_pre" : "*** ATTIVITA' LIBERE *** Si devono acquisire almeno 8 cfu in attività a scelta. Sono offerti insegnamenti che completano la formazione dell'indirizzo prescelto. Se hai scelto l'indirizzo \"\"TECNOLOGICO-INDUSTRIALE FARMACEUTICO E COSMETICO\"\" questi sono gli insegnamenti proposti."
+                           },
+                           "id" : "c1302a4cGENs357364r95582"
+                        }
+                     ],
+                     "data" : {
+                        "tipo_sce_cod" : "V",
+                        "tipo" : "regola",
+                        "name" : "REGOLA VINCOLO ESAME A SCELTA: Crediti a scelta libera (tra 8 e 18 cfu) -  SCELTA su più anni di corso",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Chimica_e_Tecnologia_Farmaceutiche.html"
+                     },
+                     "id" : "c1302a0cGENs357364r95576"
+                  }
+               ],
+               "data" : {
+                  "anno_id_ord" : "a0",
+                  "prop" : null,
+                  "tipo" : "anno",
+                  "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Chimica_e_Tecnologia_Farmaceutiche.html",
+                  "ric_prop" : null
+               },
+               "id" : "c1302a0"
+            },
+            {
+               "name" : "Primo anno",
+               "children" : [
+                  {
+                     "name" : "ANATOMIA UMANA",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "insegnamento",
+                        "cfu" : "5",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?55b8",
+                        "urls" : null,
+                        "af_gen_cod" : "FAR0013"
+                     },
+                     "id" : "c1302a1cGENs357364r95212af31236"
+                  },
+                  {
+                     "name" : "BIOLOGIA ANIMALE, FISIOLOGIA CELLULARE E BIOLOGIA VEGETALE",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "10",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?ace9",
+                        "urls" : null,
+                        "af_gen_cod" : "FAR0279"
+                     },
+                     "id" : "c1302a1cGENs357364r95212af101929"
+                  },
+                  {
+                     "name" : "CHIMICA ANALITICA",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "insegnamento",
+                        "cfu" : "6",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?f210",
+                        "urls" : null,
+                        "af_gen_cod" : "FAR0015"
+                     },
+                     "id" : "c1302a1cGENs357364r95212af31238"
+                  },
+                  {
+                     "name" : "CHIMICA GENERALE ED INORGANICA",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "9",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?e7d1",
+                        "urls" : null,
+                        "af_gen_cod" : "FAR0010"
+                     },
+                     "id" : "c1302a1cGENs357364r95212af31231"
+                  },
+                  {
+                     "name" : "INFORMATICA",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "3",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?c160",
+                        "urls" : null,
+                        "af_gen_cod" : "FAR0017"
+                     },
+                     "id" : "c1302a1cGENs357364r95212af31240"
+                  },
+                  {
+                     "name" : "MATEMATICA, STATISTICA E FISICA",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "16",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?3cd5",
+                        "urls" : null,
+                        "af_gen_cod" : "STF0019"
+                     },
+                     "id" : "c1302a1cGENs357364r95212af134943"
+                  },
+                  {
+                     "name" : "MICROBIOLOGIA",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "insegnamento",
+                        "cfu" : "5",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?94bd",
+                        "urls" : null,
+                        "af_gen_cod" : "FAR0016"
+                     },
+                     "id" : "c1302a1cGENs357364r95212af31239"
+                  }
+               ],
+               "data" : {
+                  "anno_id_ord" : "a1",
+                  "prop" : "2",
+                  "tipo" : "anno",
+                  "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Chimica_e_Tecnologia_Farmaceutiche.html",
+                  "ric_prop" : null
+               },
+               "id" : "c1302a1"
+            },
+            {
+               "name" : "Secondo anno",
+               "children" : [
+                  {
+                     "name" : "BIOCHIMICA",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "insegnamento",
+                        "cfu" : "8",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?65b7",
+                        "urls" : null,
+                        "ric_prop" : "<ul>\n<li>aver superato tutte le attivita' didattiche </li>\n<ul>\n<li>CHIMICA ORGANICA I (secondo anno)</li>\n<li>BIOLOGIA ANIMALE, FISIOLOGIA CELLULARE E BIOLOGIA VEGETALE (primo anno)</li>\n</ul>\n</ul>\n",
+                        "af_gen_cod" : "FAR0024"
+                     },
+                     "id" : "c1302a2cGENs357364r95213af31253"
+                  },
+                  {
+                     "name" : "BIOCHIMICA APPLICATA",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "insegnamento",
+                        "cfu" : "6",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?a371",
+                        "urls" : null,
+                        "ric_prop" : "<ul>\n<li>BIOLOGIA ANIMALE, FISIOLOGIA CELLULARE E BIOLOGIA VEGETALE (primo anno)</li>\n</ul>\n",
+                        "af_gen_cod" : "FAR0025"
+                     },
+                     "id" : "c1302a2cGENs357364r95213af31254"
+                  },
+                  {
+                     "name" : "CHIMICA FISICA",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "insegnamento",
+                        "cfu" : "7",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?afa0",
+                        "urls" : null,
+                        "ric_prop" : "<ul>\n<li>MATEMATICA, STATISTICA E FISICA (primo anno)</li>\n</ul>\n",
+                        "af_gen_cod" : "FAR0020"
+                     },
+                     "id" : "c1302a2cGENs357364r95213af31243"
+                  },
+                  {
+                     "name" : "CHIMICA ORGANICA I",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "9",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?90ad",
+                        "urls" : null,
+                        "ric_prop" : "<ul>\n<li>CHIMICA GENERALE ED INORGANICA (primo anno)</li>\n</ul>\n",
+                        "af_gen_cod" : "FAR0019"
+                     },
+                     "id" : "c1302a2cGENs357364r95213af31242"
+                  },
+                  {
+                     "name" : "FARMACOGNOSIA",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "insegnamento",
+                        "cfu" : "5",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?539f",
+                        "urls" : null,
+                        "af_gen_cod" : "FAR0023"
+                     },
+                     "id" : "c1302a2cGENs357364r95213af31252"
+                  },
+                  {
+                     "name" : "FISIOLOGIA",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "insegnamento",
+                        "cfu" : "7",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?41dc",
+                        "urls" : null,
+                        "ric_prop" : "<ul>\n<li>BIOLOGIA ANIMALE, FISIOLOGIA CELLULARE E BIOLOGIA VEGETALE (primo anno)</li>\n</ul>\n",
+                        "af_gen_cod" : "FAR0018"
+                     },
+                     "id" : "c1302a2cGENs357364r95213af31241"
+                  },
+                  {
+                     "name" : "LINGUA INGLESE 1",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "2",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Chimica_e_Tecnologia_Farmaceutiche.html",
+                        "urls" : null,
+                        "af_gen_cod" : "STF0020"
+                     },
+                     "id" : "c1302a2cGENs357364r95213af134953"
+                  },
+                  {
+                     "name" : "METODI ANALITICI STRUMENTALI E ANALISI DEI FARMACI I",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "14",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Chimica_e_Tecnologia_Farmaceutiche.html",
+                        "urls" : null,
+                        "ric_prop" : "<ul>\n<li>CHIMICA GENERALE ED INORGANICA (primo anno)</li>\n</ul>\n",
+                        "af_gen_cod" : "STF0094"
+                     },
+                     "id" : "c1302a2cGENs357364r95213af139215"
+                  },
+                  {
+                     "name" : "PATOLOGIA GENERALE E TERMINOLOGIA MEDICA",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "insegnamento",
+                        "cfu" : "5",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Chimica_e_Tecnologia_Farmaceutiche.html",
+                        "urls" : null,
+                        "af_gen_cod" : "STF0024"
+                     },
+                     "id" : "c1302a2cGENs357364r95213af135079"
+                  }
+               ],
+               "data" : {
+                  "anno_id_ord" : "a2",
+                  "prop" : "2",
+                  "tipo" : "anno",
+                  "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Chimica_e_Tecnologia_Farmaceutiche.html",
+                  "ric_prop" : null
+               },
+               "id" : "c1302a2"
+            },
+            {
+               "name" : "Terzo anno",
+               "children" : [
+                  {
+                     "name" : "ANALISI DEI FARMACI II",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "14",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Chimica_e_Tecnologia_Farmaceutiche.html",
+                        "urls" : null,
+                        "ric_prop" : "<ul>\n<li>aver superato tutte le attivita' didattiche </li>\n<ul>\n<li>METODI ANALITICI STRUMENTALI E ANALISI DEI FARMACI I (secondo anno)</li>\n<li>CHIMICA ORGANICA II (terzo anno)</li>\n</ul>\n</ul>\n",
+                        "af_gen_cod" : "FAR0030"
+                     },
+                     "id" : "c1302a3cGENs357364r95214af31259"
+                  },
+                  {
+                     "name" : "BIOLOGIA MOLECOLARE",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "5",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?13a4",
+                        "urls" : null,
+                        "af_gen_cod" : "FAR0026"
+                     },
+                     "id" : "c1302a3cGENs357364r95214af31255"
+                  },
+                  {
+                     "name" : "CHIMICA FARMACEUTICA E TOSSICOLOGICA I",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "8",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?e523",
+                        "urls" : null,
+                        "ric_prop" : "<ul>\n<li>CHIMICA ORGANICA I (secondo anno)</li>\n</ul>\n",
+                        "af_gen_cod" : "FAR0033"
+                     },
+                     "id" : "c1302a3cGENs357364r95214af31264"
+                  },
+                  {
+                     "name" : "CHIMICA ORGANICA II",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "8",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?d8be",
+                        "urls" : null,
+                        "ric_prop" : "<ul>\n<li>CHIMICA ORGANICA I (secondo anno)</li>\n</ul>\n",
+                        "af_gen_cod" : "FAR0028"
+                     },
+                     "id" : "c1302a3cGENs357364r95214af31257"
+                  },
+                  {
+                     "name" : "FARMACOLOGIA E FARMACOTERAPIA",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "10",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?ef06",
+                        "urls" : null,
+                        "af_gen_cod" : "FAR0039"
+                     },
+                     "id" : "c1302a3cGENs357364r95214af31297"
+                  },
+                  {
+                     "name" : "LINGUA INGLESE 2",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "3",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Chimica_e_Tecnologia_Farmaceutiche.html",
+                        "urls" : null,
+                        "ric_prop" : "<ul>\n<li>LINGUA INGLESE 1 (secondo anno)</li>\n</ul>\n",
+                        "af_gen_cod" : "STF0021"
+                     },
+                     "id" : "c1302a3cGENs357364r95214af134963"
+                  },
+                  {
+                     "name" : "METODI FISICI IN CHIMICA ORGANICA",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "insegnamento",
+                        "cfu" : "8",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?f2fb",
+                        "urls" : null,
+                        "ric_prop" : "<ul>\n<li>CHIMICA ORGANICA I (secondo anno)</li>\n</ul>\n",
+                        "af_gen_cod" : "FAR0031"
+                     },
+                     "id" : "c1302a3cGENs357364r95214af31262"
+                  },
+                  {
+                     "name" : "SVILUPPO DEI MEDICINALI: ASPETTI TECNOLOGICI E NORMATIVI",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "6",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Chimica_e_Tecnologia_Farmaceutiche.html",
+                        "urls" : null,
+                        "af_gen_cod" : "STF0025"
+                     },
+                     "id" : "c1302a3cGENs357364r95214af135101"
+                  }
+               ],
+               "data" : {
+                  "anno_id_ord" : "a3",
+                  "prop" : "2",
+                  "tipo" : "anno",
+                  "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Chimica_e_Tecnologia_Farmaceutiche.html",
+                  "ric_prop" : "<ul>\n<li>aver superato tutte le attivita' didattiche </li>\n<ul>\n<li>del primo anno di corso </li>\n</ul>\n</ul>\n"
+               },
+               "id" : "c1302a3"
+            },
+            {
+               "name" : "Quarto anno",
+               "children" : [
+                  {
+                     "name" : "CHIMICA DEGLI ALIMENTI",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "insegnamento",
+                        "cfu" : "7",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?7420",
+                        "urls" : null,
+                        "af_gen_cod" : "STF0007"
+                     },
+                     "id" : "c1302a4cGENs357364r95215af113187"
+                  },
+                  {
+                     "name" : "CHIMICA FARMACEUTICA E TOSSICOLOGICA II",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "insegnamento",
+                        "cfu" : "8",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?f6d4",
+                        "urls" : null,
+                        "ric_prop" : "<ul>\n<li>CHIMICA FARMACEUTICA E TOSSICOLOGICA I (terzo anno)</li>\n</ul>\n",
+                        "af_gen_cod" : "FAR0035"
+                     },
+                     "id" : "c1302a4cGENs357364r95215af31271"
+                  },
+                  {
+                     "name" : "TECNOLOGIA, SOCIOECONOMIA E LEGISLAZIONE FARMACEUTICHE",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "10",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Chimica_e_Tecnologia_Farmaceutiche.html",
+                        "urls" : null,
+                        "af_gen_cod" : "STF0023"
+                     },
+                     "id" : "c1302a4cGENs357364r95215af134969"
+                  },
+                  {
+                     "name" : "TOSSICOLOGIA",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "insegnamento",
+                        "cfu" : "6",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?d94e",
+                        "urls" : null,
+                        "af_gen_cod" : "FAR0032"
+                     },
+                     "id" : "c1302a4cGENs357364r95215af31263"
+                  },
+                  {
+                     "name" : "REGOLA VINCOLO: Crediti a scelta libera (22 cfu)",
+                     "children" : [
+                        {
+                           "name" : "PERCORSO 1: Crediti a scelta libera (22 cfu)",
+                           "children" : [
+                              {
+                                 "name" : "BOTANICALS, ALIMENTI FUNZIONALI E INTEGRATORI ALIMENTARI",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "4",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?0b6m",
+                                    "urls" : null,
+                                    "ric_prop" : "<ul>\n<li>aver superato tutte le attivita' didattiche </li>\n<ul>\n<li>CHIMICA FARMACEUTICA E TOSSICOLOGICA I (terzo anno)</li>\n<li>ANALISI DEI FARMACI II (terzo anno)</li>\n<li>CHIMICA ORGANICA II (terzo anno)</li>\n</ul>\n</ul>\n",
+                                    "af_gen_cod" : "STF0029"
+                                 },
+                                 "id" : "c1302a4cGENs357364r95570af537857"
+                              },
+                              {
+                                 "name" : "CHIMICA FARMACEUTICA AVANZATA",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "5",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?jtuf",
+                                    "urls" : null,
+                                    "ric_prop" : "<ul>\n<li>aver superato tutte le attivita' didattiche </li>\n<ul>\n<li>ANALISI DEI FARMACI II (terzo anno)</li>\n<li>CHIMICA FARMACEUTICA E TOSSICOLOGICA I (terzo anno)</li>\n<li>CHIMICA ORGANICA II (terzo anno)</li>\n</ul>\n</ul>\n",
+                                    "af_gen_cod" : "STF0027"
+                                 },
+                                 "id" : "c1302a4cGENs357364r95570af537859"
+                              },
+                              {
+                                 "name" : "METODOLOGIE DI SVILUPPO DI PROCESSO FARMACEUTICO",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "6",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?ffn4",
+                                    "urls" : null,
+                                    "ric_prop" : "<ul>\n<li>aver superato tutte le attivita' didattiche </li>\n<ul>\n<li>ANALISI DEI FARMACI II (terzo anno)</li>\n<li>CHIMICA ORGANICA II (terzo anno)</li>\n<li>CHIMICA FARMACEUTICA E TOSSICOLOGICA I (terzo anno)</li>\n</ul>\n</ul>\n",
+                                    "af_gen_cod" : "STF0028"
+                                 },
+                                 "id" : "c1302a4cGENs357364r95570af537860"
+                              },
+                              {
+                                 "name" : "SINTESI DI FARMACI",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "7",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?yjq5",
+                                    "urls" : null,
+                                    "ric_prop" : "<ul>\n<li>aver superato tutte le attivita' didattiche </li>\n<ul>\n<li>CHIMICA ORGANICA II (terzo anno)</li>\n<li>CHIMICA FARMACEUTICA E TOSSICOLOGICA I (terzo anno)</li>\n<li>ANALISI DEI FARMACI II (terzo anno)</li>\n</ul>\n</ul>\n",
+                                    "af_gen_cod" : "STF0026"
+                                 },
+                                 "id" : "c1302a4cGENs357364r95570af537858"
+                              }
+                           ],
+                           "data" : {
+                              "collapsed" : "false",
+                              "tipo_sce_cod" : "F",
+                              "tipo" : "regola",
+                              "nota_post" : "",
+                              "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Chimica_e_Tecnologia_Farmaceutiche.html",
+                              "nota_pre" : "*** E' NECESSARIO SCEGLIERE UNO DEI TRE INDIRIZZI *** Se intendi scegliere l'indirizzo \"\"FARMACEUTICO-ALIMENTARE\"\" devi selezionare questi insegnamenti, ALTRIMENTI SALTA LA REGOLA."
+                           },
+                           "id" : "c1302a4cGENs357364r95570"
+                        },
+                        {
+                           "name" : "PERCORSO 2: Crediti a scelta libera (22 cfu)",
+                           "children" : [
+                              {
+                                 "name" : "BASI MOLECOLARI E GENETICHE DELLE MALATTIE",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "6",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?8w52",
+                                    "urls" : null,
+                                    "ric_prop" : "<ul>\n<li>BIOLOGIA MOLECOLARE (terzo anno)</li>\n</ul>\n",
+                                    "af_gen_cod" : "STF0035"
+                                 },
+                                 "id" : "c1302a4cGENs357364r95572af537871"
+                              },
+                              {
+                                 "name" : "BIOCHIMICA E FISIOLOGIA DI SISTEMI CELLULARI COMPLESSI",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "6",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?ij0z",
+                                    "urls" : null,
+                                    "ric_prop" : "<ul>\n<li>BIOLOGIA MOLECOLARE (terzo anno)</li>\n</ul>\n",
+                                    "af_gen_cod" : "STF0034"
+                                 },
+                                 "id" : "c1302a4cGENs357364r95572af537870"
+                              },
+                              {
+                                 "name" : "FARMACOGENETICA E FARMACOGENOMICA",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "5",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?skcc",
+                                    "urls" : null,
+                                    "ric_prop" : "<ul>\n<li>BIOLOGIA MOLECOLARE (terzo anno)</li>\n</ul>\n",
+                                    "af_gen_cod" : "STF0037"
+                                 },
+                                 "id" : "c1302a4cGENs357364r95572af537872"
+                              },
+                              {
+                                 "name" : "FORMULAZIONE E PRODUZIONE INDUSTRIALE DI MEDICINALI BIOTECNOLOGICI",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "5",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?89wh",
+                                    "urls" : null,
+                                    "ric_prop" : "<ul>\n<li>BIOLOGIA MOLECOLARE (terzo anno)</li>\n</ul>\n",
+                                    "af_gen_cod" : "STF0036"
+                                 },
+                                 "id" : "c1302a4cGENs357364r95572af537869"
+                              }
+                           ],
+                           "data" : {
+                              "collapsed" : "false",
+                              "tipo_sce_cod" : "F",
+                              "tipo" : "regola",
+                              "nota_post" : "",
+                              "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Chimica_e_Tecnologia_Farmaceutiche.html",
+                              "nota_pre" : "*** E' NECESSARIO SCEGLIERE UNO DEI TRE INDIRIZZI *** Se intendi scegliere l'indirizzo \"\"BIOTECNOLOGICO\"\" devi selezionare questi insegnamenti, ALTRIMENTI SALTA LA REGOLA."
+                           },
+                           "id" : "c1302a4cGENs357364r95572"
+                        },
+                        {
+                           "name" : "PERCORSO 3: Crediti a scelta libera (22 cfu)",
+                           "children" : [
+                              {
+                                 "name" : "PROGETTAZIONE E SVILUPPO DI FORMULAZIONI TOPICHE E DERMATOLOGICHE",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "5",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?2x13",
+                                    "urls" : null,
+                                    "ric_prop" : "<ul>\n<li>SVILUPPO DEI MEDICINALI: ASPETTI TECNOLOGICI E NORMATIVI (terzo anno)</li>\n</ul>\n",
+                                    "af_gen_cod" : "STF0042"
+                                 },
+                                 "id" : "c1302a4cGENs357364r95574af537879"
+                              },
+                              {
+                                 "name" : "SVILUPPO INDUSTRIALE E MARKETING FARMACEUTICO E COSMETICO",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "5",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?t5ks",
+                                    "urls" : null,
+                                    "ric_prop" : "<ul>\n<li>SVILUPPO DEI MEDICINALI: ASPETTI TECNOLOGICI E NORMATIVI (terzo anno)</li>\n</ul>\n",
+                                    "af_gen_cod" : "STF0039"
+                                 },
+                                 "id" : "c1302a4cGENs357364r95574af537881"
+                              },
+                              {
+                                 "name" : "TECNOLOGIA E NORMATIVA DEI PRODOTTI COSMETICI",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "6",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?t7vg",
+                                    "urls" : null,
+                                    "ric_prop" : "<ul>\n<li>SVILUPPO DEI MEDICINALI: ASPETTI TECNOLOGICI E NORMATIVI (terzo anno)</li>\n</ul>\n",
+                                    "af_gen_cod" : "STF0041"
+                                 },
+                                 "id" : "c1302a4cGENs357364r95574af537878"
+                              },
+                              {
+                                 "name" : "TECNOLOGIA FARMACEUTICA AVANZATA",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "6",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?c1h3",
+                                    "urls" : null,
+                                    "ric_prop" : "<ul>\n<li>SVILUPPO DEI MEDICINALI: ASPETTI TECNOLOGICI E NORMATIVI (terzo anno)</li>\n</ul>\n",
+                                    "af_gen_cod" : "STF0040"
+                                 },
+                                 "id" : "c1302a4cGENs357364r95574af537880"
+                              }
+                           ],
+                           "data" : {
+                              "collapsed" : "false",
+                              "tipo_sce_cod" : "F",
+                              "tipo" : "regola",
+                              "nota_post" : "",
+                              "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Chimica_e_Tecnologia_Farmaceutiche.html",
+                              "nota_pre" : "*** E' NECESSARIO SCEGLIERE UNO DEI TRE INDIRIZZI *** Se intendi scegliere l'indirizzo \"\"TECNOLOGICO-INDUSTRIALE FARMACEUTICO E COSMETICO\"\" devi selezionare questi insegnamenti, ALTRIMENTI SALTA LA REGOLA."
+                           },
+                           "id" : "c1302a4cGENs357364r95574"
+                        }
+                     ],
+                     "data" : {
+                        "tipo" : "regola",
+                        "tipo_sce_cod" : "V",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Chimica_e_Tecnologia_Farmaceutiche.html"
+                     },
+                     "id" : "c1302a4cGENs357364r95568"
+                  }
+               ],
+               "data" : {
+                  "anno_id_ord" : "a4",
+                  "prop" : null,
+                  "tipo" : "anno",
+                  "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Chimica_e_Tecnologia_Farmaceutiche.html",
+                  "ric_prop" : "<ul>\n<li>INFORMATICA (primo anno)</li>\n</ul>\n<ul>\n<li>del secondo anno di corso </li>\n</ul>\n"
+               },
+               "id" : "c1302a4"
+            },
+            {
+               "name" : "Quinto anno",
+               "children" : [
+                  {
+                     "name" : "ELABORAZIONE RISULTATI, STESURA E DISCUSSIONE PROVA FINALE SPERIMENTALE",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "z-prova finale",
+                        "cfu" : "2",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Chimica_e_Tecnologia_Farmaceutiche.html",
+                        "urls" : null,
+                        "af_gen_cod" : "STF0063"
+                     },
+                     "id" : "c1302a5cGENs357364r95216af136025"
+                  },
+                  {
+                     "name" : "LABORATORIO PER LA TESI",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "z-tesi",
+                        "cfu" : "28",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Chimica_e_Tecnologia_Farmaceutiche.html",
+                        "urls" : null,
+                        "af_gen_cod" : "STF0062"
+                     },
+                     "id" : "c1302a5cGENs357364r95216af136023"
+                  },
+                  {
+                     "name" : "TIROCINIO I PARTE",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "z-tirocinio",
+                        "cfu" : "15",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Chimica_e_Tecnologia_Farmaceutiche.html",
+                        "urls" : null,
+                        "ric_prop" : "<ul>\n<li>aver superato tutte le attivita' didattiche </li>\n<ul>\n<li>ANALISI DEI FARMACI II (terzo anno)</li>\n<li>FARMACOLOGIA E FARMACOTERAPIA (terzo anno)</li>\n<li>TECNOLOGIA, SOCIOECONOMIA E LEGISLAZIONE FARMACEUTICHE (quarto anno)</li>\n</ul>\n</ul>\n",
+                        "af_gen_cod" : "FAR0042"
+                     },
+                     "id" : "c1302a5cGENs357364r95216af31391"
+                  },
+                  {
+                     "name" : "TIROCINIO II PARTE",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "z-tirocinio",
+                        "cfu" : "15",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Chimica_e_Tecnologia_Farmaceutiche.html",
+                        "urls" : null,
+                        "ric_prop" : "<ul>\n<li>del terzo anno di corso </li>\n</ul>\n<ul>\n<li>TECNOLOGIA, SOCIOECONOMIA E LEGISLAZIONE FARMACEUTICHE (quarto anno)</li>\n</ul>\n",
+                        "af_gen_cod" : "FAR0043"
+                     },
+                     "id" : "c1302a5cGENs357364r95216af31392"
+                  }
+               ],
+               "data" : {
+                  "anno_id_ord" : "a5",
+                  "prop" : null,
+                  "tipo" : "anno",
+                  "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Chimica_e_Tecnologia_Farmaceutiche.html",
+                  "ric_prop" : "<ul>\n<li>LINGUA INGLESE 2 (terzo anno)</li>\n</ul>\n"
+               },
+               "id" : "c1302a5"
+            }
+         ],
+         "data" : {
+            "tipo" : "corso",
+            "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Chimica_e_Tecnologia_Farmaceutiche.html",
+            "num_progr_loc" : "90"
+         },
+         "id" : "c1302"
+      },
+      {
+         "name" : "FARMACIA",
+         "children" : [
+            {
+               "name" : "Primo anno",
+               "children" : [
+                  {
+                     "name" : "ANATOMIA UMANA",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "insegnamento",
+                        "cfu" : "8",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?7e4d",
+                        "urls" : null,
+                        "af_gen_cod" : "FAR0048"
+                     },
+                     "id" : "c1303a1cGENs357960r95438af31617"
+                  },
+                  {
+                     "name" : "BIOLOGIA ANIMALE, BIOLOGIA VEGETALE, FISIOLOGIA CELLULARE",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "insegnamento",
+                        "cfu" : "10",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?0bd8",
+                        "urls" : null,
+                        "af_gen_cod" : "STF0046"
+                     },
+                     "id" : "c1303a1cGENs357960r95438af135839"
+                  },
+                  {
+                     "name" : "CHIMICA ANALITICA",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "insegnamento",
+                        "cfu" : "8",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?441e",
+                        "urls" : [
+                           [
+                              "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?441e",
+                              "Chimica Analitica - corso A (Farmacia)"
+                           ],
+                           [
+                              "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?12a1",
+                              "Chimica analitica - corso B  (Farmacia)"
+                           ]
+                        ],
+                        "af_gen_cod" : "FAR0049"
+                     },
+                     "id" : "c1303a1cGENs357960r95438af31618"
+                  },
+                  {
+                     "name" : "CHIMICA GENERALE E INORGANICA",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "9",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                        "urls" : null,
+                        "af_gen_cod" : "FAR0072"
+                     },
+                     "id" : "c1303a1cGENs357960r95438af31671"
+                  },
+                  {
+                     "name" : "INFORMATICA",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "insegnamento",
+                        "cfu" : "3",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?5f26",
+                        "urls" : null,
+                        "af_gen_cod" : "FAR0050"
+                     },
+                     "id" : "c1303a1cGENs357960r95438af31619"
+                  },
+                  {
+                     "name" : "MATEMATICA, STATISTICA E FISICA",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "insegnamento",
+                        "cfu" : "14",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?24db",
+                        "urls" : null,
+                        "af_gen_cod" : "STF0060"
+                     },
+                     "id" : "c1303a1cGENs357960r95438af135909"
+                  },
+                  {
+                     "name" : "MICROBIOLOGIA",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "insegnamento",
+                        "cfu" : "7",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?ds2x",
+                        "urls" : null,
+                        "af_gen_cod" : "FAR0051"
+                     },
+                     "id" : "c1303a1cGENs357960r95438af31624"
+                  }
+               ],
+               "data" : {
+                  "anno_id_ord" : "a1",
+                  "prop" : "2",
+                  "tipo" : "anno",
+                  "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                  "ric_prop" : null
+               },
+               "id" : "c1303a1"
+            },
+            {
+               "name" : "Secondo anno",
+               "children" : [
+                  {
+                     "name" : "ANALISI DEI MEDICINALI I",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "11",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                        "urls" : null,
+                        "ric_prop" : "<ul>\n<li>CHIMICA GENERALE E INORGANICA (primo anno)</li>\n</ul>\n",
+                        "af_gen_cod" : "STF0101"
+                     },
+                     "id" : "c1303a2cGENs357960r95440af139359"
+                  },
+                  {
+                     "name" : "BIOCHIMICA GENERALE E APPLICATA MEDICA",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "insegnamento",
+                        "cfu" : "10",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                        "urls" : null,
+                        "af_gen_cod" : "STF0050"
+                     },
+                     "id" : "c1303a2cGENs357960r95440af135851"
+                  },
+                  {
+                     "name" : "BOTANICA FARMACEUTICA E METABOLISMO SECONDARIO VEGETALE",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "insegnamento",
+                        "cfu" : "9",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                        "urls" : null,
+                        "af_gen_cod" : "STF0048"
+                     },
+                     "id" : "c1303a2cGENs357960r95440af135847"
+                  },
+                  {
+                     "name" : "CHIMICA ORGANICA",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "11",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?8d98",
+                        "urls" : null,
+                        "af_gen_cod" : "FAR0052"
+                     },
+                     "id" : "c1303a2cGENs357960r95440af31625"
+                  },
+                  {
+                     "name" : "FARMACOGNOSIA CON ELEMENTI DI FARMACOLOGIA GENERALE",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "insegnamento",
+                        "cfu" : "5",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                        "urls" : null,
+                        "af_gen_cod" : "STF0049"
+                     },
+                     "id" : "c1303a2cGENs357960r95440af135849"
+                  },
+                  {
+                     "name" : "FISIOLOGIA GENERALE",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "insegnamento",
+                        "cfu" : "9",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?c772",
+                        "urls" : null,
+                        "af_gen_cod" : "FAR0055"
+                     },
+                     "id" : "c1303a2cGENs357960r95440af31631"
+                  },
+                  {
+                     "name" : "LINGUA INGLESE 1",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "3",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                        "urls" : null,
+                        "af_gen_cod" : "STF0047"
+                     },
+                     "id" : "c1303a2cGENs357960r95440af135845"
+                  }
+               ],
+               "data" : {
+                  "anno_id_ord" : "a2",
+                  "prop" : "2",
+                  "tipo" : "anno",
+                  "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                  "ric_prop" : null
+               },
+               "id" : "c1303a2"
+            },
+            {
+               "name" : "Terzo anno",
+               "children" : [
+                  {
+                     "name" : "ANALISI DEI MEDICINALI II",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "11",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?6b4e",
+                        "urls" : null,
+                        "ric_prop" : "<ul>\n<li>aver superato tutte le attivita' didattiche </li>\n<ul>\n<li>CHIMICA ORGANICA (secondo anno)</li>\n<li>ANALISI DEI MEDICINALI I (secondo anno)</li>\n</ul>\n</ul>\n",
+                        "af_gen_cod" : "FAR0074"
+                     },
+                     "id" : "c1303a3cGENs357960r95442af31675"
+                  },
+                  {
+                     "name" : "CHIMICA FARMACEUTICA E TOSSICOLOGICA I",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "8",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?c563",
+                        "urls" : null,
+                        "af_gen_cod" : "FAR0059"
+                     },
+                     "id" : "c1303a3cGENs357960r95442af31639"
+                  },
+                  {
+                     "name" : "FARMACOLOGIA E CHEMIOTERAPIA",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "8",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                        "urls" : null,
+                        "af_gen_cod" : "STF0055"
+                     },
+                     "id" : "c1303a3cGENs357960r95442af135873"
+                  },
+                  {
+                     "name" : "FISIOLOGIA DELLA NUTRIZIONE, CHIMICA DEGLI ALIMENTI E PRODOTTI DIETETICI",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "insegnamento",
+                        "cfu" : "10",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                        "urls" : null,
+                        "af_gen_cod" : "STF0053"
+                     },
+                     "id" : "c1303a3cGENs357960r95442af135861"
+                  },
+                  {
+                     "name" : "IGIENE",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "insegnamento",
+                        "cfu" : "6",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?6429",
+                        "urls" : null,
+                        "af_gen_cod" : "FAR0065"
+                     },
+                     "id" : "c1303a3cGENs357960r95442af31651"
+                  },
+                  {
+                     "name" : "LINGUA INGLESE 2",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "insegnamento",
+                        "cfu" : "3",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                        "urls" : null,
+                        "ric_prop" : "<ul>\n<li>LINGUA INGLESE 1 (secondo anno)</li>\n</ul>\n",
+                        "af_gen_cod" : "STF0061"
+                     },
+                     "id" : "c1303a3cGENs357960r95442af136007"
+                  },
+                  {
+                     "name" : "ORGANIZZAZIONE E GESTIONE DELL'AZIENDA FARMACEUTICA",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "insegnamento",
+                        "cfu" : "6",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                        "urls" : null,
+                        "af_gen_cod" : "STF0052"
+                     },
+                     "id" : "c1303a3cGENs357960r95442af135855"
+                  },
+                  {
+                     "name" : "PATOLOGIA GENERALE CON ELEMENTI DI FISIOPATOLOGIA",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "9",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                        "urls" : null,
+                        "af_gen_cod" : "STF0051"
+                     },
+                     "id" : "c1303a3cGENs357960r95442af135853"
+                  }
+               ],
+               "data" : {
+                  "anno_id_ord" : "a3",
+                  "prop" : "2",
+                  "tipo" : "anno",
+                  "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                  "ric_prop" : "<ul>\n<li>CHIMICA ORGANICA (secondo anno)</li>\n<li>del primo anno di corso </li>\n</ul>\n"
+               },
+               "id" : "c1303a3"
+            },
+            {
+               "name" : "Quarto anno",
+               "children" : [
+                  {
+                     "name" : "CHIMICA FARMACEUTICA E TOSSICOLOGICA II",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "insegnamento",
+                        "cfu" : "8",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?370e",
+                        "urls" : null,
+                        "ric_prop" : "<ul>\n<li>CHIMICA FARMACEUTICA E TOSSICOLOGICA I (terzo anno)</li>\n</ul>\n",
+                        "af_gen_cod" : "FAR0061"
+                     },
+                     "id" : "c1303a4cGENs357960r95444af31641"
+                  },
+                  {
+                     "name" : "FARMACOTERAPIA",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "10",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                        "urls" : null,
+                        "ric_prop" : "<ul>\n<li>PATOLOGIA GENERALE CON ELEMENTI DI FISIOPATOLOGIA (terzo anno)</li>\n</ul>\n",
+                        "af_gen_cod" : "STF0054"
+                     },
+                     "id" : "c1303a4cGENs357960r95444af135871"
+                  },
+                  {
+                     "name" : "TECNOLOGIA E NORMATIVA DEI PRODOTTI COSMETICI",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "insegnamento",
+                        "cfu" : "7",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                        "urls" : null,
+                        "af_gen_cod" : "STF0057"
+                     },
+                     "id" : "c1303a4cGENs357960r95444af135885"
+                  },
+                  {
+                     "name" : "TECNOLOGIA E NORMATIVA FARMACEUTICHE I",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "12",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                        "urls" : null,
+                        "af_gen_cod" : "STF0058"
+                     },
+                     "id" : "c1303a4cGENs357960r95444af135889"
+                  },
+                  {
+                     "name" : "TOSSICOLOGIA E FARMACOVIGILANZA",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "insegnamento",
+                        "cfu" : "8",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                        "urls" : null,
+                        "af_gen_cod" : "STF0056"
+                     },
+                     "id" : "c1303a4cGENs357960r95444af135881"
+                  },
+                  {
+                     "name" : "TIROCINIO I PARTE",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "z-tirocinio",
+                        "cfu" : "15",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                        "urls" : null,
+                        "ric_prop" : "<ul>\n<li>aver superato tutte le attivita' didattiche </li>\n<ul>\n<li>ANALISI DEI MEDICINALI II (terzo anno)</li>\n<li>FARMACOLOGIA E CHEMIOTERAPIA (terzo anno)</li>\n<li>TECNOLOGIA E NORMATIVA FARMACEUTICHE I (quarto anno)</li>\n</ul>\n</ul>\n",
+                        "af_gen_cod" : "FAR0212"
+                     },
+                     "id" : "c1303a4cGENs357960r95444af63265"
+                  }
+               ],
+               "data" : {
+                  "anno_id_ord" : "a4",
+                  "prop" : null,
+                  "tipo" : "anno",
+                  "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                  "ric_prop" : "<ul>\n<li>aver superato tutte le attivita' didattiche </li>\n<ul>\n<li>del secondo anno di corso </li>\n<li>del primo anno di corso </li>\n</ul>\n</ul>\n"
+               },
+               "id" : "c1303a4"
+            },
+            {
+               "name" : "Quinto anno",
+               "children" : [
+                  {
+                     "name" : "TECNOLOGIA E NORMATIVA FARMACEUTICHE II",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "insegnamento",
+                        "cfu" : "9",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                        "urls" : null,
+                        "ric_prop" : "<ul>\n<li>TECNOLOGIA E NORMATIVA FARMACEUTICHE I (quarto anno)</li>\n</ul>\n",
+                        "af_gen_cod" : "STF0059"
+                     },
+                     "id" : "c1303a5cGENs357960r95446af135891"
+                  },
+                  {
+                     "name" : "VINCOLO TAF C: Crediti a scelta libera (12 cfu)",
+                     "children" : [
+                        {
+                           "name" : "PERCORSO SPERIMENTALE  I: Crediti a scelta libera (8 cfu)",
+                           "children" : [
+                              {
+                                 "name" : "CRITERI DI VALUTAZIONE FARMACOLOGICA DI MEDICINALI EQUIVALENTI E BIOSIMILARI, SOP E OTC: IL CONSIGLIO A BANCO DEL FARMACISTA",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "4",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?4wkn",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0089"
+                                 },
+                                 "id" : "c1303a5cGENs357960r95540af537759"
+                              },
+                              {
+                                 "name" : "DERMOCOSMETOLOGIA DELL'ETA' PEDIATRICA: DALLA FORMULAZIONE AL CONSIGLIO IN FARMACIA",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "4",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?mikc",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0085"
+                                 },
+                                 "id" : "c1303a5cGENs357960r95540af537762"
+                              },
+                              {
+                                 "name" : "FARMACOECONOMIA",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "4",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?gyws",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0079"
+                                 },
+                                 "id" : "c1303a5cGENs357960r95540af537755"
+                              },
+                              {
+                                 "name" : "LA FILIERA DELLE PIANTE AROMATICHE E MEDICINALI: IDENTITA', ANALISI E SOSTENIBILITA'",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "4",
+                                    "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0081"
+                                 },
+                                 "id" : "c1303a5cGENs357960r95540af537760"
+                              },
+                              {
+                                 "name" : "MEDICINE NON CONVENZIONALI - MNC -: IL CONSIGLIO A BANCO IN FARMACIA DI COMUNITA'",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "4",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?0d2c",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0091"
+                                 },
+                                 "id" : "c1303a5cGENs357960r95540af537756"
+                              },
+                              {
+                                 "name" : "METODOLOGIE AVANZATE DI ANALISI FARMACEUTICA",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "4",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?e3su",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0080"
+                                 },
+                                 "id" : "c1303a5cGENs357960r95540af537761"
+                              },
+                              {
+                                 "name" : "PATOLOGIE MICROBICHE DI COMUNITA'. DIAGNOSI E TERAPIA",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "4",
+                                    "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0086"
+                                 },
+                                 "id" : "c1303a5cGENs357960r95540af537758"
+                              },
+                              {
+                                 "name" : "PSICOLOGIA E PROCESSI DI RELAZIONE IN FARMACIA",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "4",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?dysr",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0082"
+                                 },
+                                 "id" : "c1303a5cGENs357960r95540af537757"
+                              }
+                           ],
+                           "data" : {
+                              "collapsed" : "false",
+                              "tipo_sce_cod" : "F",
+                              "tipo" : "regola",
+                              "nota_post" : "",
+                              "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                              "nota_pre" : "*** ATTIVITA' INTEGRATIVE *** Gli studenti che scelgono l'indirizzo TEORICO o PROFESSIONALE devono SALTARE QUESTA REGOLA. Gli studenti dell'indirizzo SPERIMENTALE devono scegliere 8 cfu inserendo obbligatoriamente l'insegnamento propedeutico alla tesi concordato con il proprio relatore."
+                           },
+                           "id" : "c1303a5cGENs357960r95540"
+                        },
+                        {
+                           "name" : "PERCORSO SPERIMENTALE II: Crediti a scelta libera (4 cfu)",
+                           "children" : [
+                              {
+                                 "name" : "LABORATORIO BIOCHIMICO",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "4",
+                                    "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0099"
+                                 },
+                                 "id" : "c1303a5cGENs357960r95542af537773"
+                              },
+                              {
+                                 "name" : "LABORATORIO BIOLOGICO FARMACEUTICO",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "4",
+                                    "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0098"
+                                 },
+                                 "id" : "c1303a5cGENs357960r95542af537772"
+                              },
+                              {
+                                 "name" : "LABORATORIO CHIMICO-FARMACEUTICO",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "4",
+                                    "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0095"
+                                 },
+                                 "id" : "c1303a5cGENs357960r95542af537774"
+                              },
+                              {
+                                 "name" : "LABORATORIO DI FARMACOLOGIA",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "4",
+                                    "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0097"
+                                 },
+                                 "id" : "c1303a5cGENs357960r95542af537769"
+                              },
+                              {
+                                 "name" : "LABORATORIO DI FISIOLOGIA",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "4",
+                                    "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0100"
+                                 },
+                                 "id" : "c1303a5cGENs357960r95542af537771"
+                              },
+                              {
+                                 "name" : "LABORATORIO FARMACEUTICO TECNOLOGICO APPLICATIVO",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "4",
+                                    "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0096"
+                                 },
+                                 "id" : "c1303a5cGENs357960r95542af537770"
+                              }
+                           ],
+                           "data" : {
+                              "collapsed" : "false",
+                              "tipo_sce_cod" : "F",
+                              "tipo" : "regola",
+                              "nota_post" : "",
+                              "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                              "nota_pre" : "*** ATTIVITA' INTEGRATIVE *** Gli studenti che scelgono l'indirizzo TEORICO o PROFESSIONALE devono SALTARE QUESTA REGOLA. Gli studenti dell'indirizzo SPERIMENTALE devono scegliere il laboratorio del settore scientifico appropriato."
+                           },
+                           "id" : "c1303a5cGENs357960r95542"
+                        },
+                        {
+                           "name" : "PERCORSO TEORICO E PERCORSO PROFESSIONALE: Crediti a scelta libera (12 cfu)",
+                           "children" : [
+                              {
+                                 "name" : "CRITERI DI VALUTAZIONE FARMACOLOGICA DI MEDICINALI EQUIVALENTI E BIOSIMILARI, SOP E OTC: IL CONSIGLIO A BANCO DEL FARMACISTA",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "4",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?4wkn",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0089"
+                                 },
+                                 "id" : "c1303a5cGENs357960r95538af537742"
+                              },
+                              {
+                                 "name" : "DERMOCOSMETOLOGIA DELL'ETA' PEDIATRICA: DALLA FORMULAZIONE AL CONSIGLIO IN FARMACIA",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "4",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?mikc",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0085"
+                                 },
+                                 "id" : "c1303a5cGENs357960r95538af537743"
+                              },
+                              {
+                                 "name" : "FARMACOECONOMIA",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "4",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?gyws",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0079"
+                                 },
+                                 "id" : "c1303a5cGENs357960r95538af537746"
+                              },
+                              {
+                                 "name" : "LA FILIERA DELLE PIANTE AROMATICHE E MEDICINALI: IDENTITA', ANALISI E SOSTENIBILITA'",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "4",
+                                    "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0081"
+                                 },
+                                 "id" : "c1303a5cGENs357960r95538af537740"
+                              },
+                              {
+                                 "name" : "MEDICINE NON CONVENZIONALI - MNC -: IL CONSIGLIO A BANCO IN FARMACIA DI COMUNITA'",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "4",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?0d2c",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0091"
+                                 },
+                                 "id" : "c1303a5cGENs357960r95538af537744"
+                              },
+                              {
+                                 "name" : "METODOLOGIE AVANZATE DI ANALISI FARMACEUTICA",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "4",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?e3su",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0080"
+                                 },
+                                 "id" : "c1303a5cGENs357960r95538af537741"
+                              },
+                              {
+                                 "name" : "PATOLOGIE MICROBICHE DI COMUNITA'. DIAGNOSI E TERAPIA",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "4",
+                                    "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0086"
+                                 },
+                                 "id" : "c1303a5cGENs357960r95538af537745"
+                              },
+                              {
+                                 "name" : "PSICOLOGIA E PROCESSI DI RELAZIONE IN FARMACIA",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "4",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?dysr",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0082"
+                                 },
+                                 "id" : "c1303a5cGENs357960r95538af537739"
+                              }
+                           ],
+                           "data" : {
+                              "collapsed" : "false",
+                              "tipo_sce_cod" : "F",
+                              "tipo" : "regola",
+                              "nota_post" : "",
+                              "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                              "nota_pre" : "*** ATTIVITA' INTEGRATIVE *** Gli studenti che scelgono l'indirizzo TEORICO o PROFESSIONALE devono scegliere 12 CFU fra questi insegnamenti. Gli studenti dell'indirizzo SPERIMENTALE devono SALTARE LA REGOLA. *** ATTENZIONE *** Gli studenti dell'indirizzo PROFESSIONALE devono inserire l'insegnamento propedeutico al tirocinio concordato con il proprio relatore/tutor."
+                           },
+                           "id" : "c1303a5cGENs357960r95538"
+                        }
+                     ],
+                     "data" : {
+                        "tipo" : "regola",
+                        "tipo_sce_cod" : "V",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html"
+                     },
+                     "id" : "c1303a5cGENs357960r95516"
+                  },
+                  {
+                     "name" : "VINCOLO TAF D: Crediti a scelta libera (16 cfu)",
+                     "children" : [
+                        {
+                           "name" : "Crediti a scelta libera (tra 1 e 16 cfu) dall'offerta didattica dell'Ateneo fra le seguenti alternative:",
+                           "children" : [
+                              {
+                                 "name" : "Alternativa 1: soddisfatte tutte le seguenti condizioni:",
+                                 "children" : [
+                                    {
+                                       "name" : "Laurea Magistrale Ciclo Unico 5 anni",
+                                       "children" : [],
+                                       "data" : {
+                                          "tipo" : "filtro_and",
+                                          "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html"
+                                       },
+                                       "id" : "c1303a5cGENs357960r95546fo14609fa20551"
+                                    }
+                                 ],
+                                 "data" : {
+                                    "tipo" : "filtro",
+                                    "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html"
+                                 },
+                                 "id" : "c1303a5cGENs357960r95546fo14609"
+                              },
+                              {
+                                 "name" : "Alternativa 2: soddisfatte tutte le seguenti condizioni:",
+                                 "children" : [
+                                    {
+                                       "name" : "Laurea triennale (DM 270)",
+                                       "children" : [],
+                                       "data" : {
+                                          "tipo" : "filtro_and",
+                                          "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html"
+                                       },
+                                       "id" : "c1303a5cGENs357960r95546fo14611fa20553"
+                                    }
+                                 ],
+                                 "data" : {
+                                    "tipo" : "filtro",
+                                    "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html"
+                                 },
+                                 "id" : "c1303a5cGENs357960r95546fo14611"
+                              }
+                           ],
+                           "data" : {
+                              "collapsed" : "false",
+                              "tipo" : "regola",
+                              "tipo_sce_cod" : "S",
+                              "nota_post" : "",
+                              "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                              "name" : "Crediti a scelta libera (tra 1 e 16 cfu) dall'offerta didattica dell'Ateneo fra le seguenti alternative:",
+                              "nota_pre" : "*** ATTIVITA' LIBERE *** Gli studenti dell'indirizzo TEORICO devono scegliere insegnamenti per 16 cfu in questa regola o nella precedente, gli altri devono SALTARE LA REGOLA."
+                           },
+                           "id" : "c1303a5cGENs357960r95546"
+                        },
+                        {
+                           "name" : "ELENCO STESSO CORSO PERCORSO TEORICO: Crediti a scelta libera (tra 1 e 16 cfu)",
+                           "children" : [
+                              {
+                                 "name" : "APPROFONDIMENTO TESI",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "4",
+                                    "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0088"
+                                 },
+                                 "id" : "c1303a5cGENs357960r100596af564686"
+                              },
+                              {
+                                 "name" : "CRITERI DI VALUTAZIONE FARMACOLOGICA DI MEDICINALI EQUIVALENTI E BIOSIMILARI, SOP E OTC: IL CONSIGLIO A BANCO DEL FARMACISTA",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "4",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?4wkn",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0089"
+                                 },
+                                 "id" : "c1303a5cGENs357960r100596af564687"
+                              },
+                              {
+                                 "name" : "DERMOCOSMETOLOGIA DELL'ETA' PEDIATRICA: DALLA FORMULAZIONE AL CONSIGLIO IN FARMACIA",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "4",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?mikc",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0085"
+                                 },
+                                 "id" : "c1303a5cGENs357960r100596af564682"
+                              },
+                              {
+                                 "name" : "FARMACOECONOMIA",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "4",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?gyws",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0079"
+                                 },
+                                 "id" : "c1303a5cGENs357960r100596af564684"
+                              },
+                              {
+                                 "name" : "LA FILIERA DELLE PIANTE AROMATICHE E MEDICINALI: IDENTITA', ANALISI E SOSTENIBILITA'",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "4",
+                                    "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0081"
+                                 },
+                                 "id" : "c1303a5cGENs357960r100596af564685"
+                              },
+                              {
+                                 "name" : "MEDICINE NON CONVENZIONALI - MNC -: IL CONSIGLIO A BANCO IN FARMACIA DI COMUNITA'",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "4",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?0d2c",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0091"
+                                 },
+                                 "id" : "c1303a5cGENs357960r100596af564680"
+                              },
+                              {
+                                 "name" : "METODOLOGIE AVANZATE DI ANALISI FARMACEUTICA",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "4",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?e3su",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0080"
+                                 },
+                                 "id" : "c1303a5cGENs357960r100596af564683"
+                              },
+                              {
+                                 "name" : "PATOLOGIE MICROBICHE DI COMUNITA'. DIAGNOSI E TERAPIA",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "4",
+                                    "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0086"
+                                 },
+                                 "id" : "c1303a5cGENs357960r100596af564688"
+                              },
+                              {
+                                 "name" : "PSICOLOGIA E PROCESSI DI RELAZIONE IN FARMACIA",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "4",
+                                    "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?dysr",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0082"
+                                 },
+                                 "id" : "c1303a5cGENs357960r100596af564681"
+                              }
+                           ],
+                           "data" : {
+                              "collapsed" : "false",
+                              "tipo_sce_cod" : "F",
+                              "tipo" : "regola",
+                              "nota_post" : "",
+                              "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                              "nota_pre" : "*** ATTIVITA' LIBERE *** Gli studenti dell'indirizzo TEORICO devono scegliere insegnamenti per 16 cfu in questa regola o nella successiva, gli altri devono SALTARE LA REGOLA."
+                           },
+                           "id" : "c1303a5cGENs357960r100596"
+                        },
+                        {
+                           "name" : "PERCORSO PROFESSIONALE: Crediti a scelta libera (16 cfu)",
+                           "children" : [
+                              {
+                                 "name" : "STAGE",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "16",
+                                    "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0064"
+                                 },
+                                 "id" : "c1303a5cGENs357960r96580af542432"
+                              }
+                           ],
+                           "data" : {
+                              "collapsed" : "false",
+                              "tipo_sce_cod" : "F",
+                              "tipo" : "regola",
+                              "nota_post" : "",
+                              "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                              "nota_pre" : "*** ATTIVITA' LIBERE *** Gli studenti dell'indirizzo PROFESSIONALE devono inserire questa attività, gli altri devono SALTARE LA REGOLA."
+                           },
+                           "id" : "c1303a5cGENs357960r96580"
+                        },
+                        {
+                           "name" : "PERCORSO SPERIMENTALE: Crediti a scelta libera (16 cfu)",
+                           "children" : [
+                              {
+                                 "name" : "LABORATORIO PER LA TESI",
+                                 "children" : [],
+                                 "data" : {
+                                    "tipo" : "insegnamento",
+                                    "cfu" : "16",
+                                    "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                                    "urls" : null,
+                                    "af_gen_cod" : "STF0062"
+                                 },
+                                 "id" : "c1303a5cGENs357960r95548af537776"
+                              }
+                           ],
+                           "data" : {
+                              "collapsed" : "false",
+                              "tipo_sce_cod" : "F",
+                              "tipo" : "regola",
+                              "nota_post" : "",
+                              "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                              "nota_pre" : "*** ATTIVITA' LIBERE *** Gli studenti dell'indirizzo SPERIMENTALE devono inserire questa attività, gli altri devono SALTARE LA REGOLA."
+                           },
+                           "id" : "c1303a5cGENs357960r95548"
+                        }
+                     ],
+                     "data" : {
+                        "tipo" : "regola",
+                        "tipo_sce_cod" : "V",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html"
+                     },
+                     "id" : "c1303a5cGENs357960r95544"
+                  },
+                  {
+                     "name" : "PROVA FINALE",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "z-prova finale",
+                        "cfu" : "10",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                        "urls" : null,
+                        "af_gen_cod" : "FAR0070"
+                     },
+                     "id" : "c1303a5cGENs357960r95446af31660"
+                  },
+                  {
+                     "name" : "TIROCINIO II PARTE",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "z-tirocinio",
+                        "cfu" : "15",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                        "urls" : null,
+                        "ric_prop" : "<ul>\n<li>del terzo anno di corso </li>\n<li>FARMACOTERAPIA (quarto anno)</li>\n</ul>\n",
+                        "af_gen_cod" : "FAR0213"
+                     },
+                     "id" : "c1303a5cGENs357960r95446af63267"
+                  }
+               ],
+               "data" : {
+                  "anno_id_ord" : "a5",
+                  "prop" : null,
+                  "tipo" : "anno",
+                  "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+                  "ric_prop" : null
+               },
+               "id" : "c1303a5"
+            }
+         ],
+         "data" : {
+            "tipo" : "corso",
+            "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=farmacia1.html",
+            "num_progr_loc" : "175"
+         },
+         "id" : "c1303"
+      },
+      {
+         "name" : "TECNICHE ERBORISTICHE",
+         "children" : [
+            {
+               "name" : "Primo anno",
+               "children" : [
+                  {
+                     "name" : "BIOLOGIA VEGETALE",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "7",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?adfd",
+                        "urls" : null,
+                        "af_gen_cod" : "FAR0103"
+                     },
+                     "id" : "c1331a1cGENs357369r95249af32360"
+                  },
+                  {
+                     "name" : "BOTANICA FARMACEUTICA",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "8",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?f79d",
+                        "urls" : null,
+                        "af_gen_cod" : "FAR0245"
+                     },
+                     "id" : "c1331a1cGENs357369r95249af81739"
+                  },
+                  {
+                     "name" : "CHIMICA GENERALE INORGANICA ED ORGANICA",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "12",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Corso_TE.html",
+                        "urls" : null,
+                        "af_gen_cod" : "FAR0242"
+                     },
+                     "id" : "c1331a1cGENs357369r95249af81621"
+                  },
+                  {
+                     "name" : "DIFESA BIOLOGICA ED INTEGRATA DELLE COLTURE OFFICINALI DALLE FITOPATIE",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "6",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?1eca",
+                        "urls" : null,
+                        "af_gen_cod" : "FAR0115"
+                     },
+                     "id" : "c1331a1cGENs357369r95249af32678"
+                  },
+                  {
+                     "name" : "FISIOLOGIA DEGLI ORGANI E DEI SISTEMI",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "6",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?ac20",
+                        "urls" : null,
+                        "af_gen_cod" : "FAR0246"
+                     },
+                     "id" : "c1331a1cGENs357369r95249af81917"
+                  },
+                  {
+                     "name" : "GENETICA AGRARIA, COLTURE OFFICINALI",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "12",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Corso_TE.html",
+                        "urls" : null,
+                        "af_gen_cod" : "FAR0244"
+                     },
+                     "id" : "c1331a1cGENs357369r95249af81705"
+                  },
+                  {
+                     "name" : "LINGUA INGLESE",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "4",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?550e",
+                        "urls" : null,
+                        "af_gen_cod" : "FAR0106"
+                     },
+                     "id" : "c1331a1cGENs357369r95249af32658"
+                  },
+                  {
+                     "name" : "PRINCIPI DI INFORMATICA E APPLICAZIONI ALLA MATEMATICA E ALLA STATISTICA",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "6",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?314d",
+                        "urls" : null,
+                        "af_gen_cod" : "FAR0271"
+                     },
+                     "id" : "c1331a1cGENs357369r95249af86479"
+                  },
+                  {
+                     "name" : "Crediti a scelta libera (2 cfu) dall'offerta didattica dell'Ateneo",
+                     "children" : [
+                        {
+                           "name" : "Su tutto l'Ateneo",
+                           "children" : [],
+                           "data" : {
+                              "tipo" : "insegnamento",
+                              "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Corso_TE.html"
+                           },
+                           "id" : "c1331a1cGENs357369r95254no_filor"
+                        }
+                     ],
+                     "data" : {
+                        "tipo" : "regola",
+                        "tipo_sce_cod" : "S",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Corso_TE.html"
+                     },
+                     "id" : "c1331a1cGENs357369r95254"
+                  }
+               ],
+               "data" : {
+                  "anno_id_ord" : "a1",
+                  "prop" : "2",
+                  "tipo" : "anno",
+                  "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Corso_TE.html",
+                  "ric_prop" : null
+               },
+               "id" : "c1331a1"
+            },
+            {
+               "name" : "Secondo anno",
+               "children" : [
+                  {
+                     "name" : "BIOCHIMICA",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "6",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?27cb",
+                        "urls" : null,
+                        "ric_prop" : "<ul>\n<li>aver superato tutte le attivita' didattiche </li>\n<ul>\n<li>FISIOLOGIA DEGLI ORGANI E DEI SISTEMI (primo anno)</li>\n<li>BOTANICA FARMACEUTICA (primo anno)</li>\n<li>CHIMICA GENERALE INORGANICA ED ORGANICA (primo anno)</li>\n<li>GENETICA AGRARIA, COLTURE OFFICINALI (primo anno)</li>\n<li>BIOLOGIA VEGETALE (primo anno)</li>\n<li>DIFESA BIOLOGICA ED INTEGRATA DELLE COLTURE OFFICINALI DALLE FITOPATIE (primo anno)</li>\n<li>PRINCIPI DI INFORMATICA E APPLICAZIONI ALLA MATEMATICA E ALLA STATISTICA (primo anno)</li>\n<li>LINGUA INGLESE (primo anno)</li>\n</ul>\n</ul>\n",
+                        "af_gen_cod" : "FAR0247"
+                     },
+                     "id" : "c1331a2cGENs357369r95250af81919"
+                  },
+                  {
+                     "name" : "ECONOMIE DELLE AZIENDE AGRARIE E DEI MERCATI AGRICOLI",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "8",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?17bf",
+                        "urls" : null,
+                        "ric_prop" : "<ul>\n<li>aver superato tutte le attivita' didattiche </li>\n<ul>\n<li>BIOLOGIA VEGETALE (primo anno)</li>\n<li>PRINCIPI DI INFORMATICA E APPLICAZIONI ALLA MATEMATICA E ALLA STATISTICA (primo anno)</li>\n<li>GENETICA AGRARIA, COLTURE OFFICINALI (primo anno)</li>\n<li>CHIMICA GENERALE INORGANICA ED ORGANICA (primo anno)</li>\n<li>LINGUA INGLESE (primo anno)</li>\n<li>BOTANICA FARMACEUTICA (primo anno)</li>\n<li>DIFESA BIOLOGICA ED INTEGRATA DELLE COLTURE OFFICINALI DALLE FITOPATIE (primo anno)</li>\n<li>FISIOLOGIA DEGLI ORGANI E DEI SISTEMI (primo anno)</li>\n</ul>\n</ul>\n",
+                        "af_gen_cod" : "FAR0251"
+                     },
+                     "id" : "c1331a2cGENs357369r95250af82097"
+                  },
+                  {
+                     "name" : "FARMACOGNOSIA CON SAGGI E DOSAGGI",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "10",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?42d4",
+                        "urls" : null,
+                        "ric_prop" : "<ul>\n<li>aver superato tutte le attivita' didattiche </li>\n<ul>\n<li>PRINCIPI DI INFORMATICA E APPLICAZIONI ALLA MATEMATICA E ALLA STATISTICA (primo anno)</li>\n<li>BOTANICA FARMACEUTICA (primo anno)</li>\n<li>DIFESA BIOLOGICA ED INTEGRATA DELLE COLTURE OFFICINALI DALLE FITOPATIE (primo anno)</li>\n<li>BIOLOGIA VEGETALE (primo anno)</li>\n<li>CHIMICA GENERALE INORGANICA ED ORGANICA (primo anno)</li>\n<li>LINGUA INGLESE (primo anno)</li>\n<li>GENETICA AGRARIA, COLTURE OFFICINALI (primo anno)</li>\n<li>FISIOLOGIA DEGLI ORGANI E DEI SISTEMI (primo anno)</li>\n</ul>\n</ul>\n",
+                        "af_gen_cod" : "FAR0249"
+                     },
+                     "id" : "c1331a2cGENs357369r95250af81953"
+                  },
+                  {
+                     "name" : "FITOFARMACIA - ANALISI DI PRINCIPI ATTIVI DI ORIGINE VEGETALE",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "12",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?1d8c",
+                        "urls" : null,
+                        "ric_prop" : "<ul>\n<li>aver superato tutte le attivita' didattiche </li>\n<ul>\n<li>CHIMICA GENERALE INORGANICA ED ORGANICA (primo anno)</li>\n<li>DIFESA BIOLOGICA ED INTEGRATA DELLE COLTURE OFFICINALI DALLE FITOPATIE (primo anno)</li>\n<li>LINGUA INGLESE (primo anno)</li>\n<li>FISIOLOGIA DEGLI ORGANI E DEI SISTEMI (primo anno)</li>\n<li>GENETICA AGRARIA, COLTURE OFFICINALI (primo anno)</li>\n<li>PRINCIPI DI INFORMATICA E APPLICAZIONI ALLA MATEMATICA E ALLA STATISTICA (primo anno)</li>\n<li>BIOLOGIA VEGETALE (primo anno)</li>\n<li>BOTANICA FARMACEUTICA (primo anno)</li>\n</ul>\n</ul>\n",
+                        "af_gen_cod" : "FAR0252"
+                     },
+                     "id" : "c1331a2cGENs357369r95250af82249"
+                  },
+                  {
+                     "name" : "METABOLITI SECONDARI DI ORIGINE VEGETALE",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "6",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?b1ef",
+                        "urls" : null,
+                        "ric_prop" : "<ul>\n<li>aver superato tutte le attivita' didattiche </li>\n<ul>\n<li>CHIMICA GENERALE INORGANICA ED ORGANICA (primo anno)</li>\n<li>GENETICA AGRARIA, COLTURE OFFICINALI (primo anno)</li>\n<li>DIFESA BIOLOGICA ED INTEGRATA DELLE COLTURE OFFICINALI DALLE FITOPATIE (primo anno)</li>\n<li>BIOLOGIA VEGETALE (primo anno)</li>\n<li>LINGUA INGLESE (primo anno)</li>\n<li>FISIOLOGIA DEGLI ORGANI E DEI SISTEMI (primo anno)</li>\n<li>PRINCIPI DI INFORMATICA E APPLICAZIONI ALLA MATEMATICA E ALLA STATISTICA (primo anno)</li>\n<li>BOTANICA FARMACEUTICA (primo anno)</li>\n</ul>\n</ul>\n",
+                        "af_gen_cod" : "STF0004"
+                     },
+                     "id" : "c1331a2cGENs357369r95250af113107"
+                  },
+                  {
+                     "name" : "MICROBIOLOGIA",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "6",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?fe99",
+                        "urls" : null,
+                        "ric_prop" : "<ul>\n<li>aver superato tutte le attivita' didattiche </li>\n<ul>\n<li>CHIMICA GENERALE INORGANICA ED ORGANICA (primo anno)</li>\n<li>FISIOLOGIA DEGLI ORGANI E DEI SISTEMI (primo anno)</li>\n<li>BOTANICA FARMACEUTICA (primo anno)</li>\n<li>PRINCIPI DI INFORMATICA E APPLICAZIONI ALLA MATEMATICA E ALLA STATISTICA (primo anno)</li>\n<li>BIOLOGIA VEGETALE (primo anno)</li>\n<li>GENETICA AGRARIA, COLTURE OFFICINALI (primo anno)</li>\n<li>DIFESA BIOLOGICA ED INTEGRATA DELLE COLTURE OFFICINALI DALLE FITOPATIE (primo anno)</li>\n<li>LINGUA INGLESE (primo anno)</li>\n</ul>\n</ul>\n",
+                        "af_gen_cod" : "FAR0253"
+                     },
+                     "id" : "c1331a2cGENs357369r95250af82257"
+                  },
+                  {
+                     "name" : "PREPARAZIONI DEI PRODOTTI DI ORIGINE VEGETALE",
+                     "children" : [],
+                     "data" : {
+                        "prop" : "2",
+                        "tipo" : "insegnamento",
+                        "cfu" : "7",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?bcf3",
+                        "urls" : null,
+                        "ric_prop" : "<ul>\n<li>aver superato tutte le attivita' didattiche </li>\n<ul>\n<li>GENETICA AGRARIA, COLTURE OFFICINALI (primo anno)</li>\n<li>BIOLOGIA VEGETALE (primo anno)</li>\n<li>FISIOLOGIA DEGLI ORGANI E DEI SISTEMI (primo anno)</li>\n<li>CHIMICA GENERALE INORGANICA ED ORGANICA (primo anno)</li>\n<li>BOTANICA FARMACEUTICA (primo anno)</li>\n<li>LINGUA INGLESE (primo anno)</li>\n<li>DIFESA BIOLOGICA ED INTEGRATA DELLE COLTURE OFFICINALI DALLE FITOPATIE (primo anno)</li>\n<li>PRINCIPI DI INFORMATICA E APPLICAZIONI ALLA MATEMATICA E ALLA STATISTICA (primo anno)</li>\n</ul>\n</ul>\n",
+                        "af_gen_cod" : "FAR0248"
+                     },
+                     "id" : "c1331a2cGENs357369r95250af81921"
+                  },
+                  {
+                     "name" : "Crediti a scelta libera (4 cfu) dall'offerta didattica dell'Ateneo",
+                     "children" : [
+                        {
+                           "name" : "Su tutto l'Ateneo",
+                           "children" : [],
+                           "data" : {
+                              "tipo" : "insegnamento",
+                              "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Corso_TE.html"
+                           },
+                           "id" : "c1331a2cGENs357369r95255no_filor"
+                        }
+                     ],
+                     "data" : {
+                        "collapsed" : "false",
+                        "tipo_sce_cod" : "S",
+                        "tipo" : "regola",
+                        "nota_post" : "",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Corso_TE.html",
+                        "nota_pre" : "Gli studenti iscritti al primo anno possono SALTARE QUESTA REGOLA."
+                     },
+                     "id" : "c1331a2cGENs357369r95255"
+                  }
+               ],
+               "data" : {
+                  "anno_id_ord" : "a2",
+                  "prop" : "2",
+                  "tipo" : "anno",
+                  "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Corso_TE.html",
+                  "ric_prop" : null
+               },
+               "id" : "c1331a2"
+            },
+            {
+               "name" : "Terzo anno",
+               "children" : [
+                  {
+                     "name" : "CHIMICA DEGLI ALIMENTI E DEI PRODOTTI DIETETICI",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "insegnamento",
+                        "cfu" : "12",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?ffk1",
+                        "urls" : null,
+                        "ric_prop" : "<ul>\n<li>aver superato tutte le attivita' didattiche </li>\n<ul>\n<li>PREPARAZIONI DEI PRODOTTI DI ORIGINE VEGETALE (secondo anno)</li>\n<li>BIOCHIMICA (secondo anno)</li>\n<li>FARMACOGNOSIA CON SAGGI E DOSAGGI (secondo anno)</li>\n<li>FITOFARMACIA - ANALISI DI PRINCIPI ATTIVI DI ORIGINE VEGETALE (secondo anno)</li>\n<li>MICROBIOLOGIA (secondo anno)</li>\n<li>ECONOMIE DELLE AZIENDE AGRARIE E DEI MERCATI AGRICOLI (secondo anno)</li>\n<li>METABOLITI SECONDARI DI ORIGINE VEGETALE (secondo anno)</li>\n</ul>\n</ul>\n",
+                        "af_gen_cod" : "FAR0255"
+                     },
+                     "id" : "c1331a3cGENs357369r95251af82263"
+                  },
+                  {
+                     "name" : "CHIMICA DEI PRODOTTI COSMETICI",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "insegnamento",
+                        "cfu" : "7",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?1ebf",
+                        "urls" : null,
+                        "ric_prop" : "<ul>\n<li>aver superato tutte le attivita' didattiche </li>\n<ul>\n<li>ECONOMIE DELLE AZIENDE AGRARIE E DEI MERCATI AGRICOLI (secondo anno)</li>\n<li>BIOCHIMICA (secondo anno)</li>\n<li>FITOFARMACIA - ANALISI DI PRINCIPI ATTIVI DI ORIGINE VEGETALE (secondo anno)</li>\n<li>MICROBIOLOGIA (secondo anno)</li>\n<li>FARMACOGNOSIA CON SAGGI E DOSAGGI (secondo anno)</li>\n<li>METABOLITI SECONDARI DI ORIGINE VEGETALE (secondo anno)</li>\n<li>PREPARAZIONI DEI PRODOTTI DI ORIGINE VEGETALE (secondo anno)</li>\n</ul>\n</ul>\n",
+                        "af_gen_cod" : "FAR0256"
+                     },
+                     "id" : "c1331a3cGENs357369r95251af82269"
+                  },
+                  {
+                     "name" : "TECNOLOGIE E LEGISLAZIONE DELLE PREPARAZIONI ERBORISTICHE",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "insegnamento",
+                        "cfu" : "12",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?3l5b",
+                        "urls" : null,
+                        "ric_prop" : "<ul>\n<li>aver superato tutte le attivita' didattiche </li>\n<ul>\n<li>PREPARAZIONI DEI PRODOTTI DI ORIGINE VEGETALE (secondo anno)</li>\n<li>MICROBIOLOGIA (secondo anno)</li>\n<li>FITOFARMACIA - ANALISI DI PRINCIPI ATTIVI DI ORIGINE VEGETALE (secondo anno)</li>\n<li>BIOCHIMICA (secondo anno)</li>\n<li>METABOLITI SECONDARI DI ORIGINE VEGETALE (secondo anno)</li>\n<li>FARMACOGNOSIA CON SAGGI E DOSAGGI (secondo anno)</li>\n<li>ECONOMIE DELLE AZIENDE AGRARIE E DEI MERCATI AGRICOLI (secondo anno)</li>\n</ul>\n</ul>\n",
+                        "af_gen_cod" : "FAR0254"
+                     },
+                     "id" : "c1331a3cGENs357369r95251af82259"
+                  },
+                  {
+                     "name" : "TOSSICOLOGIA E SAGGI E DOSAGGI",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "insegnamento",
+                        "cfu" : "8",
+                        "url" : "http://www.farmacia-dstf.unito.it/do/corsi.pl/Show?fr5j",
+                        "urls" : null,
+                        "ric_prop" : "<ul>\n<li>aver superato tutte le attivita' didattiche </li>\n<ul>\n<li>FITOFARMACIA - ANALISI DI PRINCIPI ATTIVI DI ORIGINE VEGETALE (secondo anno)</li>\n<li>FARMACOGNOSIA CON SAGGI E DOSAGGI (secondo anno)</li>\n<li>PREPARAZIONI DEI PRODOTTI DI ORIGINE VEGETALE (secondo anno)</li>\n<li>ECONOMIE DELLE AZIENDE AGRARIE E DEI MERCATI AGRICOLI (secondo anno)</li>\n<li>METABOLITI SECONDARI DI ORIGINE VEGETALE (secondo anno)</li>\n<li>MICROBIOLOGIA (secondo anno)</li>\n<li>BIOCHIMICA (secondo anno)</li>\n</ul>\n</ul>\n",
+                        "af_gen_cod" : "FAR0257"
+                     },
+                     "id" : "c1331a3cGENs357369r95251af82271"
+                  },
+                  {
+                     "name" : "Crediti a scelta libera (tra 6 e 8 cfu) dall'offerta didattica dell'Ateneo",
+                     "children" : [
+                        {
+                           "name" : "Su tutto l'Ateneo",
+                           "children" : [],
+                           "data" : {
+                              "tipo" : "insegnamento",
+                              "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Corso_TE.html"
+                           },
+                           "id" : "c1331a3cGENs357369r95256no_filor"
+                        }
+                     ],
+                     "data" : {
+                        "collapsed" : "false",
+                        "tipo_sce_cod" : "S",
+                        "tipo" : "regola",
+                        "nota_post" : "",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Corso_TE.html",
+                        "nota_pre" : "Gli studenti iscritti al primo e al secondo anno possono SALTARE QUESTA REGOLA. Gli studenti del terzo anno devono inserire almeno 6 cfu (massimo 8)."
+                     },
+                     "id" : "c1331a3cGENs357369r95256"
+                  },
+                  {
+                     "name" : "TIROCINIO:  (1 esame)",
+                     "children" : [
+                        {
+                           "name" : "TIROCINIO",
+                           "children" : [],
+                           "data" : {
+                              "tipo" : "z-tirocinio",
+                              "cfu" : "5",
+                              "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Corso_TE.html",
+                              "urls" : null,
+                              "ric_prop" : "<ul>\n<li>aver superato tutte le attivita' didattiche </li>\n<ul>\n<li>del primo anno di corso </li>\n<li>del secondo anno di corso </li>\n</ul>\n</ul>\n",
+                              "af_gen_cod" : "FAR0134"
+                           },
+                           "id" : "c1331a3cGENs357369r95253af32839"
+                        }
+                     ],
+                     "data" : {
+                        "collapsed" : "false",
+                        "tipo" : "regola",
+                        "tipo_sce_cod" : "O",
+                        "nota_post" : "",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Corso_TE.html",
+                        "name" : "TIROCINIO:  (1 esame)",
+                        "nota_pre" : "Può accedere al tirocinio lo studente che ha superato gli esami di profitto del 1° e del 2° anno."
+                     },
+                     "id" : "c1331a3cGENs357369r95253"
+                  },
+                  {
+                     "name" : "PROVA FINALE",
+                     "children" : [],
+                     "data" : {
+                        "tipo" : "z-prova finale",
+                        "cfu" : "8",
+                        "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Corso_TE.html",
+                        "urls" : null,
+                        "af_gen_cod" : "FAR0133"
+                     },
+                     "id" : "c1331a3cGENs357369r95252af32838"
+                  }
+               ],
+               "data" : {
+                  "anno_id_ord" : "a3",
+                  "prop" : null,
+                  "tipo" : "anno",
+                  "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Corso_TE.html",
+                  "ric_prop" : null
+               },
+               "id" : "c1331a3"
+            }
+         ],
+         "data" : {
+            "tipo" : "corso",
+            "url" : "http://www.farmacia.unito.it/do/home.pl/View?doc=Corso_TE.html"
+         },
+         "id" : "c1331"
+      }
+   ],
+   "data" : {
+      "sort" : "name,tipo",
+      "tipo" : "facolta",
+      "url" : "http://www.unito.it/dstf"
+   },
+   "id" : "0"
+}
+

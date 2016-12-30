@@ -1,0 +1,60 @@
+<div id="accessContainer" ng-controller="AccessController">
+    <div class="col-md-12" ng-show="showFormRicerca">
+        <div class="row">
+            <h1><label translate="view.accessiblile.search.testata"></label></h1>
+        </div>
+        <div class="row">
+            <form name="scenarioForm" ng-submit="submitData(searchForm)" novalidate class="form-inline searchForm">
+                <label translate="view.scenario.search.struttura"></label>
+                <select ng-model="searchForm.dipartimento" class="form-control" name="dipartimento" data-ng-options="a.dipDes +' (' + a.dipCod + ')' for a in dipartimenti" />
+                </select>
+                <label translate="view.scenario.search.anno"></label>
+                <select ng-model="searchForm.anno" class="form-control">
+              <option ng-class="dropdown-menu" ng-repeat="anno in listaAnni" ng-value="{{anno.cod}}">{{anno.des}}</option>
+            </select>
+                <label translate="view.scenario.search.corso"></label>
+                <select ng-model="searchForm.corso" class="form-control" data-ng-options="a.des +' (' + a.cod + ')' for a in tipiCorso">
+            </select>
+                <button type="submit" class="btn btn-default" ng-disabled="scenarioForm.$invalid" translate="view.scenario.search.cerca"></button>
+            </form>
+        </div>
+    </div>
+    <div class="col-md-12" ng-show="showParametriRicerca">
+        <div class="row">
+            <h1><label translate="view.accessiblile.search.searched"></label></h1>
+        </div>
+        <div class="row">
+            <h3>{{'view.scenario.search.struttura' | translate}}: {{searchForm.dipartimento.dipDes}},
+              {{'view.scenario.search.anno' | translate}}: {{searchForm.anno}},
+              {{'view.scenario.search.corso' | translate}}: {{searchForm.corso.des}}
+            <button ng-click="showFormRicerca=true; showParametriRicerca=false" class="btn btn-default" translate="view.scenario.search.newsearch"></button></h3>
+        </div>
+        <div class="row">
+            <div class="col-md-12" ng-show="showParametriRicerca">
+                <label translate="view.scenario.search.dataagg"></label>: <b>{{dataagg}}</b>
+            </div>
+        </div>
+    </div>
+    <div id="breadcrumbContainer" ng-show="showParametriRicerca">
+        <ul id="breadcrumbsUl">
+            <li class="breadcrumbList"><b translate="view.accessiblile.breadcrumb.dove"></b></li>
+            <li class="breadcrumbList" ng-repeat="bread in breadcrumb">
+                <a ng-click="breadcrumbNav(bread)">{{bread.name}}</a></li>
+    </div>
+    <div id="dettagliNodo" ng-show="showParametriRicerca">
+        <h2>{{node.name}}</h2>
+        <h5><label translate="view.accessiblile.data.url"></label>: <a ng-href="{{node.data.url}}">{{node.data.url}}</a></h6>
+
+      <ul>
+        <li ng-show="node.data.cfu">{{'view.accessiblile.data.cfu' | translate}}: {{node.data.cfu}}</li>
+        <li ng-show="node.data.af_gen_cod">{{'view.accessiblile.data.codice' | translate}}: {{node.data.af_gen_cod}}</li>
+        <li ng-show="node.data.nota_pre">{{'view.accessiblile.data.notapre' | translate}}: {{node.data.nota_pre}}</li>
+        <li ng-show="node.data.nota_post">{{'view.accessiblile.data.notapost' | translate}}: {{node.data.nota_post}}</li>
+      </ul>
+
+        <h3 translate="view.accessiblile.data.percorsi"></h3>
+        <ul><li ng-repeat="figlio in node.children">
+          <a ng-click="next(node, figlio.id)">{{figlio.name}}</a></li>
+        </ul>
+    </div>
+</div>

@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="scenarioApp">
+
+<head>
+    <title>Scenario Didattico</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="libs/bootstrap/dist/css/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
+    <link rel="styleSheet" href="libs/angular-ui-grid/ui-grid.min.css" />
+    <link rel="stylesheet" href="css/style.css">
+
+
+
+    <!-- Jquery -->
+    <script src="libs/jquery/dist/jquery.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <!-- JS -->
+    <script src="libs/angular/angular.min.js"></script>
+    <!-- Angular cookies per preferenze utente -->
+    <script src="libs/angular-cookies/angular-cookies.js"></script>
+    <script src="libs/angular-route/angular-route.js"></script>
+    <!-- D3.js -->
+    <script src="https://d3js.org/d3.v3.min.js"></script>
+    <!-- Angular Animate -->
+    <script src="libs/angular-animate/angular-animate.js"></script>
+    <!-- Angular Translate -->
+    <script src="libs/angular-translate/angular-translate.js"></script>
+    <script src="libs/angular-translate-loader-static-files/angular-translate-loader-static-files.js"></script>
+    <script src="libs/angular-ui-grid/ui-grid.min.js"></script>
+
+    <!--dipendenze applicative-->
+    <script src="index/index.client.module.js"></script>
+    <script src="index/controllers/index.client.controller.js"></script>
+    <script src="index/routes/index.client.routes.js"></script>
+    <script src="paramconf/paramconf.client.module.js"></script>
+    <script src="paramconf/controllers/paramconf.client.controller.js"></script>
+    <script src="paramconf/services/paramconf.client.service.js"></script>
+    <script src="paramconf/routes/paramconf.client.routes.js"></script>
+    <script src="scenario/index.client.controller.js"></script>
+    <script src="scenario/about.client.controller.js"></script>
+    <script src="scenario/access.client.controller.js"></script>
+    <script src="scenario/config.client.controller.js"></script>
+    <script src="scenario/scenario.client.routes.js"></script>
+    <script src="scenario/scenario.client.factory.js"></script>
+    <script src="scenario/graphdrawer.client.util.js"></script>
+    <script src="scenario/atenei.client.service.js"></script>
+    <script src="scenario/parconfs.client.service.js"></script>
+    <script src="scenario/scenario.client.controller.js"></script>
+    <script src="scenario/translation.client.service.js"></script>
+</head>
+
+<body ng-controller="indexCtrl" id="myPage" data-spy="scroll" data-target=".navbar" data-offset="50">
+
+
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#myPage">Università di Torino</a>
+
+            </div>
+            <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="nav navbar-nav">
+                    <li><a href="#pippo">HOME</a></li>
+
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown">{{'view.index.menu.scenario' | translate}}<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a href="#Scenario" translate="view.index.menu.item.scenario"></a>
+                            </li>
+                            <li>
+                                <a href="#Accessibile" translate="view.index.menu.accessibile"></a>
+                            </li>
+                        </ul>
+                    </li>
+
+
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown">{{'view.index.menu.dipartimenti' | translate}}<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="#Corsi" translate="view.index.menu.item.corsi">Corsi</a></li>
+                            <li><a href="#Af" translate="view.index.menu.item.attivita">Attività Formative</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown">{{'view.index.menu.configura' | translate}}<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a href="#paramconfs" translate="view.index.menu.item.parametri">Parametri</a>
+                            </li>
+                            <li><a href="#Grafico">Grafico</a></li>
+                            <li><a href="#Form">Form</a></li>
+                            <li><a href="#Tabs">Tabs</a></li>
+                        </ul>
+                    </li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li><button id="itButton" ng-click="changeLanguage('it')" class="btn btn-default"><img ng-src="img/IT.svg" alt="{{'view.index.menu.itbutton' | translate}} " style="width:50px "/></button></li>
+                    <li><button id="enButton" ng-click="changeLanguage('en')" class="btn btn-default"><img ng-src="img/UK.svg" alt="{{'view.index.menu.enbutton' | translate}}" style="width:50px"/></button></li>
+                    <li><a href="#"><span class="glyphicon glyphicon-user"></span>TestUser</a></li>
+                    <li><a href="#myModal2" data-toggle="modal" data-target="#myModal2"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+
+                </ul>
+                <div class="modal fade" id="myModal2" role="dialog">
+                    <div class="modal-dialog">
+
+                        <!-- Modal content-->
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal">×</button>
+                                <h4><span class="glyphicon glyphicon-lock"></span> Login</h4>
+                            </div>
+                            <div class="modal-body">
+                                <form role="form">
+
+                                    <div class="form-group">
+                                        <label for="usrname"><span class="glyphicon glyphicon-user"></span> Username</label>
+                                        <input type="text" class="form-control" id="usrname" placeholder="Enter email">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="psw"><span class="glyphicon glyphicon-lock"></span>Password </label>
+                                        <input type="number" class="form-control" id="psw" placeholder="How many?">
+                                    </div>
+                                    <button type="submit" class="btn btn-block">Invia<span class="glyphicon glyphicon-ok"></span></button>
+                                </form>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal">
+                                    <span class="glyphicon glyphicon-remove"></span> Cancel</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <div id="main" ng-view></div>
+
+
+    <!-- Footer -->
+    <footer class="text-center">
+        <a class="up-arrow" href="#myPage" data-toggle="tooltip" title="TO TOP">
+            <span class="glyphicon glyphicon-chevron-up"></span>
+        </a><br><br>
+        <p>Cineca <a href="http://www.cineca.it" data-toggle="tooltip" title="Visit Cineca">www.cineca.it</a></p>
+    </footer>
+    <script>
+        $(document).ready(function() {
+            // Initialize Tooltip
+            $('[data-toggle="tooltip"]').tooltip();
+            // Add smooth scrolling to all links in navbar + footer link
+            $(".navbar a, footer a[href='#myPage']").on('click', function(event) {
+                // Make sure this.hash has a value before overriding default behavior
+                // alert("Hash: " + this.hash);
+                if (this.hash !== "") {
+                    // Store hash
+                    var hash = this.hash;
+                    //alert($(hash).offset());
+                    // Using jQuery's animate() method to add smooth page scroll
+                    // The optional number (900) specifies the number of milliseconds it takes to scroll to the specified area
+                    if ($(hash).offset() !== null && $(hash).offset() !== undefined) {
+                        //alert("not undefined");
+                        // Prevent default anchor click behavior
+                        event.preventDefault();
+
+                        $('html, body').animate({
+                            scrollTop: $(hash).offset().top
+                        }, 900, function() {
+                            // Add hash (#) to URL when done scrolling (default click behavior)
+                            //window.location.hash = "#";
+                            //alert(window.location.hash);
+                        });
+                    }
+                } // End if
+            });
+        });
+    </script>
+</body>
+
+</html>

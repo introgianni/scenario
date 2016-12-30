@@ -1,0 +1,72 @@
+<div id="paramconf" class="inner_ngview_container container-fluid table-responsive">
+    <h4>Parametri di configurazione</h4>
+    <table class="table table-hover">
+        <thead>
+            <th>Name</th>
+            <th>Descrizione</th>
+            <th>Attinenza</th>
+            <th>Valore</th>
+        </thead>
+        <tbody>
+            <tr ng-repeat="paramconf in paramconfs ">
+                <td>{{paramconf.cod}}</td>
+                <td>{{paramconf.des}}</td>
+                <td>{{paramconf.attinenza}}</td>
+                <td>{{paramconf.default}}</td>
+                <td>
+                    <div class="btn-group btn-group-xs">
+
+                        <button type="button" class="btn btn-danger" title="Elimina" ng-click="deleteParamconf($index)">
+                            <span class="glyphicon glyphicon-trash"></span>
+                        </button>
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+        <tr>
+            <td><input type="text " ng-model="newParamconf.cod "></td>
+            <td><input type="text " ng-model="newParamconf.des "></td>
+            <td><input type="text " ng-model="newParamconf.attinenza "></td>
+            <td><input type="text " ng-model="newParamconf.default "></td>
+            <td>
+                <button class="btn btn-primary " ng-click="addNewParamconf()">Add New</button>
+            </td>
+        </tr>
+    </table>
+</div>
+<div class="container-fluid  btn-group btn-group-ms ">
+    <button type="button" class="btn btn-danger" title="Elimina" ng-click="deleteAllgridParamconf()">
+            <span class="glyphicon glyphicon-trash">Elimina</span>
+        </button>
+    <button type="button " class="btn btn-default" title="Aggiungi Record" ng-click="addNewgridParamconf()">
+            <span class="glyphicon glyphicon glyphicon-plus"></span>Aggiungi
+        </button>
+</div>
+
+<div id="grid1" ui-grid="gridParamconf" ui-grid-selection ui-grid-edit ui-grid-row-edit ui-grid-resize-columns ui-grid-move-columns ui-grid-cellNav></div>
+
+<div class="container-fluid">
+    <form>
+        <div class="form-group">
+            <label for="usr">Name:</label>
+            <input type="text" class="form-control" id="usr">
+        </div>
+        <div class="form-group">
+            <label for="pwd">Password:</label>
+            <input type="password" class="form-control" id="pwd">
+        </div>
+    </form>
+</div>
+<!--<div class="pagination pagination-sm">
+        <span>Pagina: {{ gridApi.pagination.getPage() }}</span>
+        <span>/ {{ gridApi.pagination.getTotalPages() }}</span>
+
+        <button type="button" class="btn btn-default" ng-click="gridApi.pagination.previousPage()">
+            <span class="glyphicon glyphicon-chevron-left"></span>
+        </button>
+        <button type="button" class="btn btn-default" ng-click="gridApi.pagination.nextPage()">
+            <span class="glyphicon glyphicon-chevron-right"></span>
+        </button>
+        <span>Righe {{ gridApi.core.getVisibleRows().length}} di {{gridParamconf.data.length}}</span>
+    </div>
+    -->
